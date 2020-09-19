@@ -1,0 +1,1077 @@
+2018-03-05 00:11:42,927 [se-915-b01]   INFO -        #com.intellij.idea.Main - ------------------------------------------------------ IDE STARTED ------------------------------------------------------ 
+2018-03-05 00:11:42,958 [se-915-b01]   INFO -        #com.intellij.idea.Main - IDE: Android Studio (build #AI-171.4443003, 09 Nov 2017 12:34) 
+2018-03-05 00:11:42,958 [se-915-b01]   INFO -        #com.intellij.idea.Main - OS: Windows 10 (10.0, amd64) 
+2018-03-05 00:11:42,958 [se-915-b01]   INFO -        #com.intellij.idea.Main - JRE: 1.8.0_152-release-915-b01 (JetBrains s.r.o) 
+2018-03-05 00:11:42,958 [se-915-b01]   INFO -        #com.intellij.idea.Main - JVM: 25.152-b01 (OpenJDK 64-Bit Server VM) 
+2018-03-05 00:11:42,974 [se-915-b01]   INFO -        #com.intellij.idea.Main - JVM Args: -Xms256m -Xmx1280m -XX:ReservedCodeCacheSize=240m -XX:+UseConcMarkSweepGC -XX:SoftRefLRUPolicyMSPerMB=50 -Dsun.io.useCanonCaches=false -Djava.net.preferIPv4Stack=true -Djna.nosys=true -Djna.boot.library.path= -da -Djb.vmOptionsFile=C:\Program Files\Android\Android Studio\bin\studio64.exe.vmoptions -Xbootclasspath/a:C:\Program Files\Android\Android Studio\lib\boot.jar -Didea.platform.prefix=AndroidStudio -Didea.jre.check=true -Didea.paths.selector=AndroidStudio3.0 -XX:ErrorFile=C:\Users\User1\java_error_in_studio_%p.log -XX:HeapDumpPath=C:\Users\User1\java_error_in_studio.hprof 
+2018-03-05 00:11:42,974 [se-915-b01]   INFO -        #com.intellij.idea.Main - ext: C:\Program Files\Android\Android Studio\jre\jre\lib\ext: [access-bridge-64.jar, cldrdata.jar, dnsns.jar, jaccess.jar, localedata.jar, meta-index, nashorn.jar, sunec.jar, sunjce_provider.jar, sunmscapi.jar, sunpkcs11.jar, zipfs.jar] 
+2018-03-05 00:11:42,974 [se-915-b01]   INFO -        #com.intellij.idea.Main - JNU charset: Cp1252 
+2018-03-05 00:11:43,083 [se-915-b01]   INFO -        #com.intellij.idea.Main - JNA library (64-bit) loaded in 109 ms 
+2018-03-05 00:11:43,099 [se-915-b01]   INFO - penapi.util.io.win32.IdeaWin32 - Native filesystem for Windows is operational 
+2018-03-05 00:11:43,099 [se-915-b01]   INFO -        #com.intellij.idea.Main - Using "FocusKiller" library to prevent focus stealing. 
+2018-03-05 00:11:46,803 [entQueue-0]   INFO - llij.ide.plugins.PluginManager - Cannot find optional descriptor duplicates-groovy.xml 
+2018-03-05 00:11:49,458 [entQueue-0]   INFO - llij.ide.plugins.PluginManager - 37 plugins initialized in 4275 ms 
+2018-03-05 00:11:49,521 [entQueue-0]   INFO - llij.ide.plugins.PluginManager - Loaded bundled plugins: Android APK Support (1.0), Android Games (1.0), Android NDK Support (1.0), Android Support (10.3.0.1), App Links Assistant (0.1), CVS Integration (11), Copyright (8.1), Coverage (171.4249.39), EditorConfig (171.4249.39), Firebase App Indexing (0.1), Firebase Services (0.1), Firebase Testing (1.0), Git Integration (8.1), GitHub (171.4249.39), Google Cloud Tools Core (0.2.8), Google Cloud Tools For Android Studio (0.2.8), Google Developers Samples (0.3.1), Google Login (1.0), Google Services (0.1), Gradle (171.4249.39), Groovy (9.0), I18n for Java (171.4249.39), IDEA CORE (171.4249.39), IntelliLang (8.0), JUnit (1.0), Java Bytecode Decompiler (171.4249.39), Kotlin (1.1.51-release-Studio3.0-1), Properties Support (171.4249.39), Settings Repository (171.4249.39), Smali Support (1.0), Subversion Integration (1.1), Task Management (1.0), Terminal (0.1), Test Recorder (1.0), TestNG-J (8.0), YAML (171.4249.39), hg4idea (10.0) 
+2018-03-05 00:11:55,738 [entQueue-0]   INFO - ellij.vfs.persistent.FSRecords - Marking VFS as corrupted: 'C:\Users\User1\.AndroidStudio3.0\system\caches\names.dat' does not exist 
+2018-03-05 00:11:55,750 [entQueue-0]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=1226 
+2018-03-05 00:11:55,959 [entQueue-0]   INFO - pl.local.NativeFileWatcherImpl - Starting file watcher: C:\Program Files\Android\Android Studio\bin\fsnotifier64.exe 
+2018-03-05 00:11:56,335 [entQueue-0]   INFO - pl.local.NativeFileWatcherImpl - Native file watcher is operational. 
+2018-03-05 00:11:59,095 [entQueue-0]   INFO - .history.utils.LocalHistoryLog - local history version mismatch (was: 0, expected: 6), rebuilding... 
+2018-03-05 00:11:59,095 [entQueue-0]   INFO - .history.utils.LocalHistoryLog - FS has been rebuild, rebuilding local history... 
+2018-03-05 00:12:00,215 [entQueue-0]   INFO - til.net.ssl.CertificateManager - Default SSL context initialized 
+2018-03-05 00:12:01,572 [d thread 2]   INFO - rains.ide.BuiltInServerManager - built-in server started, port 63342 
+2018-03-05 00:12:01,642 [entQueue-0]   INFO - gs.impl.UpdateCheckerComponent - channel: release 
+2018-03-05 00:12:02,765 [se-915-b01]   INFO - il.indexing.FileBasedIndexImpl - Index exts enumerated:950 
+2018-03-05 00:12:02,790 [se-915-b01]   INFO - il.indexing.FileBasedIndexImpl - Index scheduled:23 
+2018-03-05 00:12:03,036 [se-915-b01]   INFO - tellij.psi.stubs.StubIndexImpl - All stub exts enumerated:239 
+2018-03-05 00:12:03,041 [se-915-b01]   INFO - tellij.psi.stubs.StubIndexImpl - stub exts update scheduled:3 
+2018-03-05 00:12:03,200 [se-915-b01]   INFO - j.ide.script.IdeStartupScripts - 0 startup script(s) found 
+2018-03-05 00:12:05,620 [se-915-b01]   INFO - ellij.project.impl.ProjectImpl - 19 project components initialized in 1597 ms 
+2018-03-05 00:12:06,177 [d thread 3]   INFO - ij.psi.stubs.StubUpdatingIndex - Following new file types will be indexed:GDBCommands,XML,Groovy,kotlin_builtins,CLASS,Properties,KJSM,LLDBCommands,JAVA,HTML,Kotlin 
+2018-03-05 00:12:11,783 [se-915-b01]   INFO - il.indexing.FileBasedIndexImpl - Rebuild requested for index org.jetbrains.kotlin.idea.versions.KotlinJvmMetadataVersionIndex 
+java.lang.Throwable
+	at com.intellij.util.indexing.FileBasedIndex.requestRebuild(FileBasedIndex.java:72)
+	at org.jetbrains.kotlin.idea.versions.KotlinUpdatePluginComponent.initComponent(KotlinUpdatePluginComponent.kt:54)
+	at com.intellij.openapi.components.impl.ComponentManagerImpl$ComponentConfigComponentAdapter.getComponentInstance(ComponentManagerImpl.java:491)
+	at com.intellij.openapi.components.impl.ComponentManagerImpl.createComponents(ComponentManagerImpl.java:120)
+	at com.intellij.openapi.application.impl.ApplicationImpl.lambda$createComponents$8(ApplicationImpl.java:466)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.lambda$runProcess$1(CoreProgressManager.java:176)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.registerIndicatorAndRun(CoreProgressManager.java:556)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.executeProcessUnderProgress(CoreProgressManager.java:501)
+	at com.intellij.openapi.progress.impl.ProgressManagerImpl.executeProcessUnderProgress(ProgressManagerImpl.java:66)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.runProcess(CoreProgressManager.java:163)
+	at com.intellij.openapi.application.impl.ApplicationImpl.createComponents(ApplicationImpl.java:473)
+	at com.intellij.openapi.components.impl.ComponentManagerImpl.init(ComponentManagerImpl.java:104)
+	at com.intellij.openapi.application.impl.ApplicationImpl.load(ApplicationImpl.java:425)
+	at com.intellij.openapi.application.impl.ApplicationImpl.load(ApplicationImpl.java:411)
+	at com.intellij.idea.IdeaApplication.run(IdeaApplication.java:206)
+	at com.intellij.idea.MainImpl$1.lambda$null$0(MainImpl.java:49)
+	at java.awt.event.InvocationEvent.dispatch(InvocationEvent.java:311)
+	at java.awt.EventQueue.dispatchEventImpl(EventQueue.java:762)
+	at java.awt.EventQueue.access$500(EventQueue.java:98)
+	at java.awt.EventQueue$3.run(EventQueue.java:715)
+	at java.awt.EventQueue$3.run(EventQueue.java:709)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:80)
+	at java.awt.EventQueue.dispatchEvent(EventQueue.java:732)
+	at com.intellij.ide.IdeEventQueue.dispatchEvent(IdeEventQueue.java:343)
+	at java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:201)
+	at java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:116)
+	at java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:105)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:93)
+	at java.awt.EventDispatchThread.run(EventDispatchThread.java:82)
+2018-03-05 00:12:11,799 [se-915-b01]   INFO - il.indexing.FileBasedIndexImpl - Rebuild requested for index org.jetbrains.kotlin.idea.versions.KotlinJsMetadataVersionIndex 
+java.lang.Throwable
+	at com.intellij.util.indexing.FileBasedIndex.requestRebuild(FileBasedIndex.java:72)
+	at org.jetbrains.kotlin.idea.versions.KotlinUpdatePluginComponent.initComponent(KotlinUpdatePluginComponent.kt:55)
+	at com.intellij.openapi.components.impl.ComponentManagerImpl$ComponentConfigComponentAdapter.getComponentInstance(ComponentManagerImpl.java:491)
+	at com.intellij.openapi.components.impl.ComponentManagerImpl.createComponents(ComponentManagerImpl.java:120)
+	at com.intellij.openapi.application.impl.ApplicationImpl.lambda$createComponents$8(ApplicationImpl.java:466)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.lambda$runProcess$1(CoreProgressManager.java:176)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.registerIndicatorAndRun(CoreProgressManager.java:556)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.executeProcessUnderProgress(CoreProgressManager.java:501)
+	at com.intellij.openapi.progress.impl.ProgressManagerImpl.executeProcessUnderProgress(ProgressManagerImpl.java:66)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.runProcess(CoreProgressManager.java:163)
+	at com.intellij.openapi.application.impl.ApplicationImpl.createComponents(ApplicationImpl.java:473)
+	at com.intellij.openapi.components.impl.ComponentManagerImpl.init(ComponentManagerImpl.java:104)
+	at com.intellij.openapi.application.impl.ApplicationImpl.load(ApplicationImpl.java:425)
+	at com.intellij.openapi.application.impl.ApplicationImpl.load(ApplicationImpl.java:411)
+	at com.intellij.idea.IdeaApplication.run(IdeaApplication.java:206)
+	at com.intellij.idea.MainImpl$1.lambda$null$0(MainImpl.java:49)
+	at java.awt.event.InvocationEvent.dispatch(InvocationEvent.java:311)
+	at java.awt.EventQueue.dispatchEventImpl(EventQueue.java:762)
+	at java.awt.EventQueue.access$500(EventQueue.java:98)
+	at java.awt.EventQueue$3.run(EventQueue.java:715)
+	at java.awt.EventQueue$3.run(EventQueue.java:709)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:80)
+	at java.awt.EventQueue.dispatchEvent(EventQueue.java:732)
+	at com.intellij.ide.IdeEventQueue.dispatchEvent(IdeEventQueue.java:343)
+	at java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:201)
+	at java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:116)
+	at java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:105)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:93)
+	at java.awt.EventDispatchThread.run(EventDispatchThread.java:82)
+2018-03-05 00:12:11,815 [se-915-b01]   INFO - il.indexing.FileBasedIndexImpl - Rebuild requested for index org.jetbrains.kotlin.idea.vfilefinder.KotlinClassFileIndex 
+java.lang.Throwable
+	at com.intellij.util.indexing.FileBasedIndex.requestRebuild(FileBasedIndex.java:72)
+	at org.jetbrains.kotlin.idea.versions.KotlinUpdatePluginComponent.initComponent(KotlinUpdatePluginComponent.kt:56)
+	at com.intellij.openapi.components.impl.ComponentManagerImpl$ComponentConfigComponentAdapter.getComponentInstance(ComponentManagerImpl.java:491)
+	at com.intellij.openapi.components.impl.ComponentManagerImpl.createComponents(ComponentManagerImpl.java:120)
+	at com.intellij.openapi.application.impl.ApplicationImpl.lambda$createComponents$8(ApplicationImpl.java:466)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.lambda$runProcess$1(CoreProgressManager.java:176)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.registerIndicatorAndRun(CoreProgressManager.java:556)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.executeProcessUnderProgress(CoreProgressManager.java:501)
+	at com.intellij.openapi.progress.impl.ProgressManagerImpl.executeProcessUnderProgress(ProgressManagerImpl.java:66)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.runProcess(CoreProgressManager.java:163)
+	at com.intellij.openapi.application.impl.ApplicationImpl.createComponents(ApplicationImpl.java:473)
+	at com.intellij.openapi.components.impl.ComponentManagerImpl.init(ComponentManagerImpl.java:104)
+	at com.intellij.openapi.application.impl.ApplicationImpl.load(ApplicationImpl.java:425)
+	at com.intellij.openapi.application.impl.ApplicationImpl.load(ApplicationImpl.java:411)
+	at com.intellij.idea.IdeaApplication.run(IdeaApplication.java:206)
+	at com.intellij.idea.MainImpl$1.lambda$null$0(MainImpl.java:49)
+	at java.awt.event.InvocationEvent.dispatch(InvocationEvent.java:311)
+	at java.awt.EventQueue.dispatchEventImpl(EventQueue.java:762)
+	at java.awt.EventQueue.access$500(EventQueue.java:98)
+	at java.awt.EventQueue$3.run(EventQueue.java:715)
+	at java.awt.EventQueue$3.run(EventQueue.java:709)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:80)
+	at java.awt.EventQueue.dispatchEvent(EventQueue.java:732)
+	at com.intellij.ide.IdeEventQueue.dispatchEvent(IdeEventQueue.java:343)
+	at java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:201)
+	at java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:116)
+	at java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:105)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:93)
+	at java.awt.EventDispatchThread.run(EventDispatchThread.java:82)
+2018-03-05 00:12:11,830 [se-915-b01]   INFO - il.indexing.FileBasedIndexImpl - Rebuild requested for index org.jetbrains.kotlin.idea.vfilefinder.KotlinJavaScriptMetaFileIndex 
+java.lang.Throwable
+	at com.intellij.util.indexing.FileBasedIndex.requestRebuild(FileBasedIndex.java:72)
+	at org.jetbrains.kotlin.idea.versions.KotlinUpdatePluginComponent.initComponent(KotlinUpdatePluginComponent.kt:57)
+	at com.intellij.openapi.components.impl.ComponentManagerImpl$ComponentConfigComponentAdapter.getComponentInstance(ComponentManagerImpl.java:491)
+	at com.intellij.openapi.components.impl.ComponentManagerImpl.createComponents(ComponentManagerImpl.java:120)
+	at com.intellij.openapi.application.impl.ApplicationImpl.lambda$createComponents$8(ApplicationImpl.java:466)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.lambda$runProcess$1(CoreProgressManager.java:176)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.registerIndicatorAndRun(CoreProgressManager.java:556)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.executeProcessUnderProgress(CoreProgressManager.java:501)
+	at com.intellij.openapi.progress.impl.ProgressManagerImpl.executeProcessUnderProgress(ProgressManagerImpl.java:66)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.runProcess(CoreProgressManager.java:163)
+	at com.intellij.openapi.application.impl.ApplicationImpl.createComponents(ApplicationImpl.java:473)
+	at com.intellij.openapi.components.impl.ComponentManagerImpl.init(ComponentManagerImpl.java:104)
+	at com.intellij.openapi.application.impl.ApplicationImpl.load(ApplicationImpl.java:425)
+	at com.intellij.openapi.application.impl.ApplicationImpl.load(ApplicationImpl.java:411)
+	at com.intellij.idea.IdeaApplication.run(IdeaApplication.java:206)
+	at com.intellij.idea.MainImpl$1.lambda$null$0(MainImpl.java:49)
+	at java.awt.event.InvocationEvent.dispatch(InvocationEvent.java:311)
+	at java.awt.EventQueue.dispatchEventImpl(EventQueue.java:762)
+	at java.awt.EventQueue.access$500(EventQueue.java:98)
+	at java.awt.EventQueue$3.run(EventQueue.java:715)
+	at java.awt.EventQueue$3.run(EventQueue.java:709)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:80)
+	at java.awt.EventQueue.dispatchEvent(EventQueue.java:732)
+	at com.intellij.ide.IdeEventQueue.dispatchEvent(IdeEventQueue.java:343)
+	at java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:201)
+	at java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:116)
+	at java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:105)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:93)
+	at java.awt.EventDispatchThread.run(EventDispatchThread.java:82)
+2018-03-05 00:12:11,846 [se-915-b01]   INFO - il.indexing.FileBasedIndexImpl - Rebuild requested for index org.jetbrains.kotlin.idea.vfilefinder.KotlinMetadataFileIndex 
+java.lang.Throwable
+	at com.intellij.util.indexing.FileBasedIndex.requestRebuild(FileBasedIndex.java:72)
+	at org.jetbrains.kotlin.idea.versions.KotlinUpdatePluginComponent.initComponent(KotlinUpdatePluginComponent.kt:58)
+	at com.intellij.openapi.components.impl.ComponentManagerImpl$ComponentConfigComponentAdapter.getComponentInstance(ComponentManagerImpl.java:491)
+	at com.intellij.openapi.components.impl.ComponentManagerImpl.createComponents(ComponentManagerImpl.java:120)
+	at com.intellij.openapi.application.impl.ApplicationImpl.lambda$createComponents$8(ApplicationImpl.java:466)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.lambda$runProcess$1(CoreProgressManager.java:176)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.registerIndicatorAndRun(CoreProgressManager.java:556)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.executeProcessUnderProgress(CoreProgressManager.java:501)
+	at com.intellij.openapi.progress.impl.ProgressManagerImpl.executeProcessUnderProgress(ProgressManagerImpl.java:66)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.runProcess(CoreProgressManager.java:163)
+	at com.intellij.openapi.application.impl.ApplicationImpl.createComponents(ApplicationImpl.java:473)
+	at com.intellij.openapi.components.impl.ComponentManagerImpl.init(ComponentManagerImpl.java:104)
+	at com.intellij.openapi.application.impl.ApplicationImpl.load(ApplicationImpl.java:425)
+	at com.intellij.openapi.application.impl.ApplicationImpl.load(ApplicationImpl.java:411)
+	at com.intellij.idea.IdeaApplication.run(IdeaApplication.java:206)
+	at com.intellij.idea.MainImpl$1.lambda$null$0(MainImpl.java:49)
+	at java.awt.event.InvocationEvent.dispatch(InvocationEvent.java:311)
+	at java.awt.EventQueue.dispatchEventImpl(EventQueue.java:762)
+	at java.awt.EventQueue.access$500(EventQueue.java:98)
+	at java.awt.EventQueue$3.run(EventQueue.java:715)
+	at java.awt.EventQueue$3.run(EventQueue.java:709)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:80)
+	at java.awt.EventQueue.dispatchEvent(EventQueue.java:732)
+	at com.intellij.ide.IdeEventQueue.dispatchEvent(IdeEventQueue.java:343)
+	at java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:201)
+	at java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:116)
+	at java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:105)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:93)
+	at java.awt.EventDispatchThread.run(EventDispatchThread.java:82)
+2018-03-05 00:12:11,872 [se-915-b01]   INFO - il.indexing.FileBasedIndexImpl - Rebuild requested for index org.jetbrains.kotlin.idea.vfilefinder.KotlinMetadataFilePackageIndex 
+java.lang.Throwable
+	at com.intellij.util.indexing.FileBasedIndex.requestRebuild(FileBasedIndex.java:72)
+	at org.jetbrains.kotlin.idea.versions.KotlinUpdatePluginComponent.initComponent(KotlinUpdatePluginComponent.kt:59)
+	at com.intellij.openapi.components.impl.ComponentManagerImpl$ComponentConfigComponentAdapter.getComponentInstance(ComponentManagerImpl.java:491)
+	at com.intellij.openapi.components.impl.ComponentManagerImpl.createComponents(ComponentManagerImpl.java:120)
+	at com.intellij.openapi.application.impl.ApplicationImpl.lambda$createComponents$8(ApplicationImpl.java:466)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.lambda$runProcess$1(CoreProgressManager.java:176)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.registerIndicatorAndRun(CoreProgressManager.java:556)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.executeProcessUnderProgress(CoreProgressManager.java:501)
+	at com.intellij.openapi.progress.impl.ProgressManagerImpl.executeProcessUnderProgress(ProgressManagerImpl.java:66)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.runProcess(CoreProgressManager.java:163)
+	at com.intellij.openapi.application.impl.ApplicationImpl.createComponents(ApplicationImpl.java:473)
+	at com.intellij.openapi.components.impl.ComponentManagerImpl.init(ComponentManagerImpl.java:104)
+	at com.intellij.openapi.application.impl.ApplicationImpl.load(ApplicationImpl.java:425)
+	at com.intellij.openapi.application.impl.ApplicationImpl.load(ApplicationImpl.java:411)
+	at com.intellij.idea.IdeaApplication.run(IdeaApplication.java:206)
+	at com.intellij.idea.MainImpl$1.lambda$null$0(MainImpl.java:49)
+	at java.awt.event.InvocationEvent.dispatch(InvocationEvent.java:311)
+	at java.awt.EventQueue.dispatchEventImpl(EventQueue.java:762)
+	at java.awt.EventQueue.access$500(EventQueue.java:98)
+	at java.awt.EventQueue$3.run(EventQueue.java:715)
+	at java.awt.EventQueue$3.run(EventQueue.java:709)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:80)
+	at java.awt.EventQueue.dispatchEvent(EventQueue.java:732)
+	at com.intellij.ide.IdeEventQueue.dispatchEvent(IdeEventQueue.java:343)
+	at java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:201)
+	at java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:116)
+	at java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:105)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:93)
+	at java.awt.EventDispatchThread.run(EventDispatchThread.java:82)
+2018-03-05 00:12:11,889 [se-915-b01]   INFO - il.indexing.FileBasedIndexImpl - Rebuild requested for index org.jetbrains.kotlin.idea.vfilefinder.KotlinModuleMappingIndex 
+java.lang.Throwable
+	at com.intellij.util.indexing.FileBasedIndex.requestRebuild(FileBasedIndex.java:72)
+	at org.jetbrains.kotlin.idea.versions.KotlinUpdatePluginComponent.initComponent(KotlinUpdatePluginComponent.kt:60)
+	at com.intellij.openapi.components.impl.ComponentManagerImpl$ComponentConfigComponentAdapter.getComponentInstance(ComponentManagerImpl.java:491)
+	at com.intellij.openapi.components.impl.ComponentManagerImpl.createComponents(ComponentManagerImpl.java:120)
+	at com.intellij.openapi.application.impl.ApplicationImpl.lambda$createComponents$8(ApplicationImpl.java:466)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.lambda$runProcess$1(CoreProgressManager.java:176)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.registerIndicatorAndRun(CoreProgressManager.java:556)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.executeProcessUnderProgress(CoreProgressManager.java:501)
+	at com.intellij.openapi.progress.impl.ProgressManagerImpl.executeProcessUnderProgress(ProgressManagerImpl.java:66)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.runProcess(CoreProgressManager.java:163)
+	at com.intellij.openapi.application.impl.ApplicationImpl.createComponents(ApplicationImpl.java:473)
+	at com.intellij.openapi.components.impl.ComponentManagerImpl.init(ComponentManagerImpl.java:104)
+	at com.intellij.openapi.application.impl.ApplicationImpl.load(ApplicationImpl.java:425)
+	at com.intellij.openapi.application.impl.ApplicationImpl.load(ApplicationImpl.java:411)
+	at com.intellij.idea.IdeaApplication.run(IdeaApplication.java:206)
+	at com.intellij.idea.MainImpl$1.lambda$null$0(MainImpl.java:49)
+	at java.awt.event.InvocationEvent.dispatch(InvocationEvent.java:311)
+	at java.awt.EventQueue.dispatchEventImpl(EventQueue.java:762)
+	at java.awt.EventQueue.access$500(EventQueue.java:98)
+	at java.awt.EventQueue$3.run(EventQueue.java:715)
+	at java.awt.EventQueue$3.run(EventQueue.java:709)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:80)
+	at java.awt.EventQueue.dispatchEvent(EventQueue.java:732)
+	at com.intellij.ide.IdeEventQueue.dispatchEvent(IdeEventQueue.java:343)
+	at java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:201)
+	at java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:116)
+	at java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:105)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:93)
+	at java.awt.EventDispatchThread.run(EventDispatchThread.java:82)
+2018-03-05 00:12:11,897 [se-915-b01]   INFO - plication.impl.ApplicationImpl - 87 application components initialized in 26740ms 
+2018-03-05 00:12:12,022 [se-915-b01]   INFO - .intellij.idea.IdeaApplication - App initialization took 43598 ms 
+2018-03-05 00:12:15,693 [d thread 6]   INFO - s.RepoProgressIndicatorAdapter - Downloading file:/C:/Program%20Files/Android/Android%20Studio/plugins/sdk-updates/offline-repo/offline-repo.xml 
+2018-03-05 00:12:16,677 [d thread 2]   INFO - dea.updater.SdkComponentSource - Downloading file:/C:/Program%20Files/Android/Android%20Studio/plugins/sdk-updates/offline-repo/offline-repo.xml 
+2018-03-05 00:12:18,223 [d thread 3]   INFO - pl$FileIndexDataInitialization - Initialization done:15433 
+2018-03-05 00:12:18,715 [d thread 1]   INFO - .openapi.application.Preloader - Finished preloading com.intellij.openapi.actionSystem.impl.ActionPreloader@45489710 
+2018-03-05 00:12:19,849 [d thread 6]   INFO - s.RepoProgressIndicatorAdapter - Downloading https://dl.google.com/android/repository/addons_list-3.xml 
+2018-03-05 00:12:19,849 [d thread 2]   INFO - dea.updater.SdkComponentSource - Downloading https://dl.google.com/android/repository/addons_list-3.xml 
+2018-03-05 00:12:20,392 [d thread 6]   INFO - s.RepoProgressIndicatorAdapter - Downloading https://dl.google.com/android/repository/sys-img/android/sys-img2-1.xml 
+2018-03-05 00:12:20,864 [d thread 2]   INFO - dea.updater.SdkComponentSource - Downloading https://dl.google.com/android/repository/sys-img/android/sys-img2-1.xml 
+2018-03-05 00:12:23,064 [d thread 6]   INFO - s.RepoProgressIndicatorAdapter - Downloading https://dl.google.com/android/repository/sys-img/android-wear/sys-img2-1.xml 
+2018-03-05 00:12:23,361 [d thread 2]   INFO - dea.updater.SdkComponentSource - Downloading https://dl.google.com/android/repository/sys-img/android-wear/sys-img2-1.xml 
+2018-03-05 00:12:23,741 [d thread 6]   INFO - s.RepoProgressIndicatorAdapter - Downloading https://dl.google.com/android/repository/sys-img/android-wear-cn/sys-img2-1.xml 
+2018-03-05 00:12:23,944 [d thread 2]   INFO - dea.updater.SdkComponentSource - Downloading https://dl.google.com/android/repository/sys-img/android-wear-cn/sys-img2-1.xml 
+2018-03-05 00:12:24,194 [d thread 6]   INFO - s.RepoProgressIndicatorAdapter - Downloading https://dl.google.com/android/repository/sys-img/android-tv/sys-img2-1.xml 
+2018-03-05 00:12:24,454 [d thread 2]   INFO - dea.updater.SdkComponentSource - Downloading https://dl.google.com/android/repository/sys-img/android-tv/sys-img2-1.xml 
+2018-03-05 00:12:25,000 [d thread 6]   INFO - s.RepoProgressIndicatorAdapter - Downloading https://dl.google.com/android/repository/sys-img/google_apis/sys-img2-1.xml 
+2018-03-05 00:12:25,329 [d thread 2]   INFO - dea.updater.SdkComponentSource - Downloading https://dl.google.com/android/repository/sys-img/google_apis/sys-img2-1.xml 
+2018-03-05 00:12:25,997 [d thread 6]   INFO - s.RepoProgressIndicatorAdapter - Downloading https://dl.google.com/android/repository/sys-img/google_apis_playstore/sys-img2-1.xml 
+2018-03-05 00:12:26,201 [d thread 2]   INFO - dea.updater.SdkComponentSource - Downloading https://dl.google.com/android/repository/sys-img/google_apis_playstore/sys-img2-1.xml 
+2018-03-05 00:12:26,357 [d thread 6]   INFO - s.RepoProgressIndicatorAdapter - Downloading https://dl.google.com/android/repository/addon2-1.xml 
+2018-03-05 00:12:26,529 [d thread 2]   INFO - dea.updater.SdkComponentSource - Downloading https://dl.google.com/android/repository/addon2-1.xml 
+2018-03-05 00:12:28,091 [d thread 3]   INFO - exImpl$StubIndexInitialization - Initialization done:9879 
+2018-03-05 00:12:28,638 [d thread 6]   INFO - s.RepoProgressIndicatorAdapter - Downloading https://dl.google.com/android/repository/glass/addon2-1.xml 
+2018-03-05 00:12:28,966 [d thread 2]   INFO - dea.updater.SdkComponentSource - Downloading https://dl.google.com/android/repository/glass/addon2-1.xml 
+2018-03-05 00:12:28,982 [d thread 6]   INFO - s.RepoProgressIndicatorAdapter - Downloading https://dl.google.com/android/repository/extras/intel/addon2-1.xml 
+2018-03-05 00:12:29,261 [d thread 2]   INFO - dea.updater.SdkComponentSource - Downloading https://dl.google.com/android/repository/extras/intel/addon2-1.xml 
+2018-03-05 00:12:29,313 [d thread 6]   WARN - s.RepoProgressIndicatorAdapter - File C:\Users\User1\.android\repositories.cfg could not be loaded. 
+2018-03-05 00:12:29,319 [d thread 6]   INFO - s.RepoProgressIndicatorAdapter - Downloading https://dl.google.com/android/repository/repository2-1.xml 
+2018-03-05 00:12:29,551 [d thread 2]   WARN - dea.updater.SdkComponentSource - File C:\Users\User1\.android\repositories.cfg could not be loaded. 
+2018-03-05 00:12:29,567 [d thread 2]   INFO - dea.updater.SdkComponentSource - Downloading https://dl.google.com/android/repository/repository2-1.xml 
+2018-03-05 00:12:30,785 [se-915-b01]   INFO - rtup.GradleSpecificInitializer - Found Studio home directory at: 'C:\Program Files\Android\Android Studio' 
+2018-03-05 00:12:30,785 [se-915-b01]   INFO - rtup.GradleSpecificInitializer - Looking for Android SDK at 'C:/Program Files/Android/Android Studio/sdk' 
+2018-03-05 00:12:30,785 [se-915-b01]   INFO - rtup.GradleSpecificInitializer - Looking for Android SDK at 'C:/Program Files/Android/sdk' 
+2018-03-05 00:12:30,785 [se-915-b01]   INFO - rtup.GradleSpecificInitializer - Unable to locate SDK within the Android studio installation. 
+2018-03-05 00:12:30,785 [se-915-b01]   INFO - rtup.GradleSpecificInitializer - Checking if ANDROID_HOME is set: 'ANDROID_HOME' is 'null' 
+2018-03-05 00:12:30,785 [se-915-b01]   INFO - rtup.GradleSpecificInitializer - Unable to locate last SDK used by Android tools 
+2018-03-05 00:12:30,785 [se-915-b01]   INFO - .startup.AndroidSdkInitializer - Found Studio home directory at: 'C:\Program Files\Android\Android Studio' 
+2018-03-05 00:12:30,785 [se-915-b01]   INFO - .startup.AndroidSdkInitializer - Looking for Android SDK at 'C:/Program Files/Android/Android Studio/sdk' 
+2018-03-05 00:12:30,785 [se-915-b01]   INFO - .startup.AndroidSdkInitializer - Looking for Android SDK at 'C:/Program Files/Android/sdk' 
+2018-03-05 00:12:30,785 [se-915-b01]   INFO - .startup.AndroidSdkInitializer - Unable to locate SDK within the Android studio installation. 
+2018-03-05 00:12:30,785 [se-915-b01]   INFO - .startup.AndroidSdkInitializer - Checking if ANDROID_HOME is set: 'ANDROID_HOME' is 'null' 
+2018-03-05 00:12:30,785 [se-915-b01]   INFO - .startup.AndroidSdkInitializer - Unable to locate last SDK used by Android tools 
+2018-03-05 00:12:30,895 [se-915-b01]   WARN - vdmanager.AvdManagerConnection - No Android SDK Found 
+2018-03-05 00:12:34,630 [d thread 1]   INFO - .openapi.application.Preloader - Finished preloading com.intellij.ide.ui.search.SearchableOptionPreloader@4c0a71c7 
+2018-03-05 00:12:36,601 [d thread 1]   INFO - .openapi.application.Preloader - Finished preloading com.intellij.codeInsight.completion.CompletionPreloader@184b4a5f 
+2018-03-05 00:25:03,625 [se-915-b01]   INFO - ectedPackagesStep$CustomLogger - To install: 
+2018-03-05 00:25:03,627 [se-915-b01]   INFO - ectedPackagesStep$CustomLogger - - Solver for ConstraintLayout 1.0.2 (extras;m2repository;com;android;support;constraint;constraint-layout-solver;1.0.2) 
+2018-03-05 00:25:03,628 [se-915-b01]   INFO - ectedPackagesStep$CustomLogger - - ConstraintLayout for Android 1.0.2 (extras;m2repository;com;android;support;constraint;constraint-layout;1.0.2) 
+2018-03-05 00:25:03,629 [se-915-b01]   INFO - ectedPackagesStep$CustomLogger -  
+2018-03-05 00:25:03,642 [d thread 5]   INFO - ectedPackagesStep$CustomLogger - Preparing "Install Solver for ConstraintLayout 1.0.2 (revision: 1)". 
+2018-03-05 00:25:03,714 [d thread 5]   INFO - ectedPackagesStep$CustomLogger - Downloading file:/C:/Program%20Files/Android/Android%20Studio/plugins/sdk-updates/offline-repo/com.android.support.constraint-constraint-layout-solver-1.0.2.zip 
+2018-03-05 00:25:03,886 [d thread 5]   INFO - ectedPackagesStep$CustomLogger - "Install Solver for ConstraintLayout 1.0.2 (revision: 1)" ready. 
+2018-03-05 00:25:03,886 [d thread 5]   INFO - ectedPackagesStep$CustomLogger - Preparing "Install ConstraintLayout for Android 1.0.2 (revision: 1)". 
+2018-03-05 00:25:03,960 [d thread 5]   INFO - ectedPackagesStep$CustomLogger - Downloading file:/C:/Program%20Files/Android/Android%20Studio/plugins/sdk-updates/offline-repo/com.android.support.constraint-constraint-layout-1.0.2.zip 
+2018-03-05 00:25:04,120 [d thread 5]   INFO - ectedPackagesStep$CustomLogger - "Install ConstraintLayout for Android 1.0.2 (revision: 1)" ready. 
+2018-03-05 00:25:04,143 [d thread 5]   INFO - ectedPackagesStep$CustomLogger - Installing Solver for ConstraintLayout 1.0.2 in C:\Users\User1\AppData\Local\Android\Sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2 
+2018-03-05 00:25:04,192 [d thread 5]   INFO - ectedPackagesStep$CustomLogger - "Install Solver for ConstraintLayout 1.0.2 (revision: 1)" complete. 
+2018-03-05 00:25:04,315 [d thread 5]   INFO - ectedPackagesStep$CustomLogger - Writing Maven metadata to C:\Users\User1\AppData\Local\Android\Sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\maven-metadata.xml 
+2018-03-05 00:25:04,439 [d thread 5]   INFO - ectedPackagesStep$CustomLogger - "Install Solver for ConstraintLayout 1.0.2 (revision: 1)" finished. 
+2018-03-05 00:25:04,464 [d thread 5]   INFO - ectedPackagesStep$CustomLogger - Installing ConstraintLayout for Android 1.0.2 in C:\Users\User1\AppData\Local\Android\Sdk\extras\m2repository\com\android\support\constraint\constraint-layout\1.0.2 
+2018-03-05 00:25:04,524 [d thread 5]   INFO - ectedPackagesStep$CustomLogger - "Install ConstraintLayout for Android 1.0.2 (revision: 1)" complete. 
+2018-03-05 00:25:04,630 [d thread 5]   INFO - ectedPackagesStep$CustomLogger - Writing Maven metadata to C:\Users\User1\AppData\Local\Android\Sdk\extras\m2repository\com\android\support\constraint\constraint-layout\maven-metadata.xml 
+2018-03-05 00:25:04,762 [d thread 5]   INFO - ectedPackagesStep$CustomLogger - "Install ConstraintLayout for Android 1.0.2 (revision: 1)" finished. 
+2018-03-05 00:25:10,716 [se-915-b01]   INFO - ellij.project.impl.ProjectImpl - 151 project components initialized in 3291 ms 
+2018-03-05 00:25:10,717 [se-915-b01]   INFO - le.impl.ModuleManagerComponent - 0 module(s) loaded in 0 ms 
+2018-03-05 00:25:12,337 [cessToken]]   WARN - BasedStripTrailingSpacesFilter - No current project is given, trailing spaces will be stripped later (postponed). File: C:/Users/User1/AndroidStudioProjects/Test/build.gradle 
+2018-03-05 00:25:12,543 [cessToken]]   WARN - BasedStripTrailingSpacesFilter - No current project is given, trailing spaces will be stripped later (postponed). File: C:/Users/User1/AndroidStudioProjects/Test/gradle.properties 
+2018-03-05 00:25:12,855 [cessToken]]   WARN - BasedStripTrailingSpacesFilter - No current project is given, trailing spaces will be stripped later (postponed). File: C:/Users/User1/AndroidStudioProjects/Test/local.properties 
+2018-03-05 00:25:13,180 [cessToken]]   WARN - BasedStripTrailingSpacesFilter - No current project is given, trailing spaces will be stripped later (postponed). File: C:/Users/User1/AndroidStudioProjects/Test/settings.gradle 
+2018-03-05 00:25:13,299 [cessToken]]   WARN - BasedStripTrailingSpacesFilter - No current project is given, trailing spaces will be stripped later (postponed). File: C:/Users/User1/AndroidStudioProjects/Test/app/build.gradle 
+2018-03-05 00:25:15,899 [cessToken]]   WARN - BasedStripTrailingSpacesFilter - No current project is given, trailing spaces will be stripped later (postponed). File: C:/Users/User1/AndroidStudioProjects/Test/app/build.gradle 
+2018-03-05 00:25:19,169 [cessToken]]   WARN - BasedStripTrailingSpacesFilter - No current project is given, trailing spaces will be stripped later (postponed). File: C:/Users/User1/AndroidStudioProjects/Test/app/build.gradle 
+2018-03-05 00:25:19,580 [se-915-b01]   INFO - i.vcs.changes.ChangeListWorker - default list not found when copy 
+2018-03-05 00:25:19,580 [se-915-b01]   INFO - i.vcs.changes.ChangeListWorker - default list not found when copy in original object too 
+2018-03-05 00:25:19,989 [se-915-b01]   INFO - e.project.sync.GradleSyncState - Started sync with Gradle for project 'Test'. 
+2018-03-05 00:25:20,433 [ thread 13]   INFO - s.plugins.gradle.GradleManager - Instructing gradle to use java from C:/Program Files/Android/Android Studio/jre 
+2018-03-05 00:25:20,496 [ thread 13]   INFO - s.plugins.gradle.GradleManager - Instructing gradle to use java from C:/Program Files/Android/Android Studio/jre 
+2018-03-05 00:29:27,616 [ thread 13]   INFO - oject.common.GradleInitScripts - init script file sync.local.repo contents "allprojects {\n  buildscript {\n    repositories {\n      maven { url 'C:\\\\Program Files\\\\Android\\\\Android Studio\\\\gradle\\\\m2repository'}\n    }\n  }\n  repositories {\n      maven { url 'C:\\\\Program Files\\\\Android\\\\Android Studio\\\\gradle\\\\m2repository'}\n  }\n}\n" 
+2018-03-05 00:29:27,647 [ thread 13]   INFO - xecution.GradleExecutionHelper - Passing command-line args to Gradle Tooling API: -Didea.version=3.0 -Djava.awt.headless=true -Pandroid.injected.build.model.only=true -Pandroid.injected.build.model.only.advanced=true -Pandroid.injected.invoked.from.ide=true -Pandroid.injected.build.model.only.versioned=3 -Pandroid.injected.studio.version=3.0.1.0 --init-script C:\Users\User1\AppData\Local\Temp\sync.local.repo.gradle --init-script C:\Users\User1\AppData\Local\Temp\ijinit.gradle 
+2018-03-05 00:30:54,874 [ thread 13]   INFO - .project.GradleProjectResolver - Gradle project resolve error 
+org.gradle.tooling.BuildException: Could not run build action using Gradle distribution 'https://services.gradle.org/distributions/gradle-4.1-all.zip'.
+	at org.gradle.tooling.internal.consumer.ExceptionTransformer.transform(ExceptionTransformer.java:51)
+	at org.gradle.tooling.internal.consumer.ExceptionTransformer.transform(ExceptionTransformer.java:29)
+	at org.gradle.tooling.internal.consumer.ResultHandlerAdapter.onFailure(ResultHandlerAdapter.java:41)
+	at org.gradle.tooling.internal.consumer.async.DefaultAsyncConsumerActionExecutor$1$1.run(DefaultAsyncConsumerActionExecutor.java:57)
+	at org.gradle.internal.concurrent.ExecutorPolicy$CatchAndRecordFailures.onExecute(ExecutorPolicy.java:63)
+	at org.gradle.internal.concurrent.StoppableExecutorImpl$1.run(StoppableExecutorImpl.java:46)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+	at org.gradle.tooling.internal.consumer.BlockingResultHandler.getResult(BlockingResultHandler.java:46)
+	at org.gradle.tooling.internal.consumer.DefaultBuildActionExecuter.run(DefaultBuildActionExecuter.java:60)
+	at org.jetbrains.plugins.gradle.service.project.GradleProjectResolver.doResolveProjectInfo(GradleProjectResolver.java:258)
+	at org.jetbrains.plugins.gradle.service.project.GradleProjectResolver.access$200(GradleProjectResolver.java:79)
+	at org.jetbrains.plugins.gradle.service.project.GradleProjectResolver$ProjectConnectionDataNodeFunction.fun(GradleProjectResolver.java:902)
+	at org.jetbrains.plugins.gradle.service.project.GradleProjectResolver$ProjectConnectionDataNodeFunction.fun(GradleProjectResolver.java:886)
+	at org.jetbrains.plugins.gradle.service.execution.GradleExecutionHelper.execute(GradleExecutionHelper.java:218)
+	at org.jetbrains.plugins.gradle.service.project.GradleProjectResolver.resolveProjectInfo(GradleProjectResolver.java:139)
+	at org.jetbrains.plugins.gradle.service.project.GradleProjectResolver.resolveProjectInfo(GradleProjectResolver.java:79)
+	at com.intellij.openapi.externalSystem.service.remote.RemoteExternalSystemProjectResolverImpl.lambda$resolveProjectInfo$0(RemoteExternalSystemProjectResolverImpl.java:37)
+	at com.intellij.openapi.externalSystem.service.remote.AbstractRemoteExternalSystemService.execute(AbstractRemoteExternalSystemService.java:59)
+	at com.intellij.openapi.externalSystem.service.remote.RemoteExternalSystemProjectResolverImpl.resolveProjectInfo(RemoteExternalSystemProjectResolverImpl.java:37)
+	at com.intellij.openapi.externalSystem.service.remote.wrapper.ExternalSystemProjectResolverWrapper.resolveProjectInfo(ExternalSystemProjectResolverWrapper.java:45)
+	at com.intellij.openapi.externalSystem.service.internal.ExternalSystemResolveProjectTask.doExecute(ExternalSystemResolveProjectTask.java:66)
+	at com.intellij.openapi.externalSystem.service.internal.AbstractExternalSystemTask.execute(AbstractExternalSystemTask.java:139)
+	at com.intellij.openapi.externalSystem.service.internal.AbstractExternalSystemTask.execute(AbstractExternalSystemTask.java:125)
+	at com.intellij.openapi.externalSystem.util.ExternalSystemUtil$3.execute(ExternalSystemUtil.java:388)
+	at com.intellij.openapi.externalSystem.util.ExternalSystemUtil$4.run(ExternalSystemUtil.java:436)
+	at com.intellij.openapi.progress.impl.CoreProgressManager$TaskRunnable.run(CoreProgressManager.java:726)
+	at com.intellij.openapi.progress.impl.CoreProgressManager$6.run(CoreProgressManager.java:410)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.lambda$runProcess$1(CoreProgressManager.java:176)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.registerIndicatorAndRun(CoreProgressManager.java:556)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.executeProcessUnderProgress(CoreProgressManager.java:501)
+	at com.intellij.openapi.progress.impl.ProgressManagerImpl.executeProcessUnderProgress(ProgressManagerImpl.java:66)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.runProcess(CoreProgressManager.java:163)
+	at com.intellij.openapi.application.impl.ApplicationImpl.lambda$null$9(ApplicationImpl.java:594)
+	at com.intellij.openapi.application.impl.ApplicationImpl$2.run(ApplicationImpl.java:334)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+Caused by: org.gradle.internal.exceptions.LocationAwareException: A problem occurred configuring project ':app'.
+	at org.gradle.initialization.DefaultExceptionAnalyser.transform(DefaultExceptionAnalyser.java:74)
+	at org.gradle.initialization.MultipleBuildFailuresExceptionAnalyser.transform(MultipleBuildFailuresExceptionAnalyser.java:47)
+	at org.gradle.initialization.StackTraceSanitizingExceptionAnalyser.transform(StackTraceSanitizingExceptionAnalyser.java:30)
+	at org.gradle.initialization.DefaultGradleLauncher.doBuildStages(DefaultGradleLauncher.java:135)
+	at org.gradle.initialization.DefaultGradleLauncher.getConfiguredBuild(DefaultGradleLauncher.java:102)
+	at org.gradle.internal.invocation.GradleBuildController$2.call(GradleBuildController.java:87)
+	at org.gradle.internal.invocation.GradleBuildController$2.call(GradleBuildController.java:84)
+	at org.gradle.internal.work.DefaultWorkerLeaseService.withLocks(DefaultWorkerLeaseService.java:152)
+	at org.gradle.internal.invocation.GradleBuildController.doBuild(GradleBuildController.java:100)
+	at org.gradle.internal.invocation.GradleBuildController.configure(GradleBuildController.java:84)
+	at org.gradle.tooling.internal.provider.runner.ClientProvidedBuildActionRunner.run(ClientProvidedBuildActionRunner.java:65)
+	at org.gradle.launcher.exec.ChainingBuildActionRunner.run(ChainingBuildActionRunner.java:35)
+	at org.gradle.launcher.exec.ChainingBuildActionRunner.run(ChainingBuildActionRunner.java:35)
+	at org.gradle.tooling.internal.provider.ValidatingBuildActionRunner.run(ValidatingBuildActionRunner.java:32)
+	at org.gradle.launcher.exec.RunAsBuildOperationBuildActionRunner$1.run(RunAsBuildOperationBuildActionRunner.java:43)
+	at org.gradle.internal.progress.DefaultBuildOperationExecutor$RunnableBuildOperationWorker.execute(DefaultBuildOperationExecutor.java:336)
+	at org.gradle.internal.progress.DefaultBuildOperationExecutor$RunnableBuildOperationWorker.execute(DefaultBuildOperationExecutor.java:328)
+	at org.gradle.internal.progress.DefaultBuildOperationExecutor.execute(DefaultBuildOperationExecutor.java:197)
+	at org.gradle.internal.progress.DefaultBuildOperationExecutor.run(DefaultBuildOperationExecutor.java:107)
+	at org.gradle.launcher.exec.RunAsBuildOperationBuildActionRunner.run(RunAsBuildOperationBuildActionRunner.java:40)
+	at org.gradle.tooling.internal.provider.SubscribableBuildActionRunner.run(SubscribableBuildActionRunner.java:51)
+	at org.gradle.launcher.exec.InProcessBuildActionExecuter.execute(InProcessBuildActionExecuter.java:45)
+	at org.gradle.launcher.exec.InProcessBuildActionExecuter.execute(InProcessBuildActionExecuter.java:29)
+	at org.gradle.launcher.exec.BuildTreeScopeBuildActionExecuter.execute(BuildTreeScopeBuildActionExecuter.java:39)
+	at org.gradle.launcher.exec.BuildTreeScopeBuildActionExecuter.execute(BuildTreeScopeBuildActionExecuter.java:25)
+	at org.gradle.tooling.internal.provider.ContinuousBuildActionExecuter.execute(ContinuousBuildActionExecuter.java:71)
+	at org.gradle.tooling.internal.provider.ContinuousBuildActionExecuter.execute(ContinuousBuildActionExecuter.java:45)
+	at org.gradle.tooling.internal.provider.ServicesSetupBuildActionExecuter.execute(ServicesSetupBuildActionExecuter.java:51)
+	at org.gradle.tooling.internal.provider.ServicesSetupBuildActionExecuter.execute(ServicesSetupBuildActionExecuter.java:32)
+	at org.gradle.tooling.internal.provider.GradleThreadBuildActionExecuter.execute(GradleThreadBuildActionExecuter.java:36)
+	at org.gradle.tooling.internal.provider.GradleThreadBuildActionExecuter.execute(GradleThreadBuildActionExecuter.java:25)
+	at org.gradle.tooling.internal.provider.ParallelismConfigurationBuildActionExecuter.execute(ParallelismConfigurationBuildActionExecuter.java:43)
+	at org.gradle.tooling.internal.provider.ParallelismConfigurationBuildActionExecuter.execute(ParallelismConfigurationBuildActionExecuter.java:29)
+	at org.gradle.tooling.internal.provider.StartParamsValidatingActionExecuter.execute(StartParamsValidatingActionExecuter.java:64)
+	at org.gradle.tooling.internal.provider.StartParamsValidatingActionExecuter.execute(StartParamsValidatingActionExecuter.java:29)
+	at org.gradle.tooling.internal.provider.SessionFailureReportingActionExecuter.execute(SessionFailureReportingActionExecuter.java:55)
+	at org.gradle.tooling.internal.provider.SessionFailureReportingActionExecuter.execute(SessionFailureReportingActionExecuter.java:42)
+	at org.gradle.tooling.internal.provider.SetupLoggingActionExecuter.execute(SetupLoggingActionExecuter.java:58)
+	at org.gradle.tooling.internal.provider.SetupLoggingActionExecuter.execute(SetupLoggingActionExecuter.java:33)
+	at org.gradle.launcher.daemon.server.exec.ExecuteBuild.doBuild(ExecuteBuild.java:67)
+	at org.gradle.launcher.daemon.server.exec.BuildCommandOnly.execute(BuildCommandOnly.java:36)
+	at org.gradle.launcher.daemon.server.api.DaemonCommandExecution.proceed(DaemonCommandExecution.java:120)
+	at org.gradle.launcher.daemon.server.exec.WatchForDisconnection.execute(WatchForDisconnection.java:37)
+	at org.gradle.launcher.daemon.server.api.DaemonCommandExecution.proceed(DaemonCommandExecution.java:120)
+	at org.gradle.launcher.daemon.server.exec.ResetDeprecationLogger.execute(ResetDeprecationLogger.java:26)
+	at org.gradle.launcher.daemon.server.api.DaemonCommandExecution.proceed(DaemonCommandExecution.java:120)
+	at org.gradle.launcher.daemon.server.exec.RequestStopIfSingleUsedDaemon.execute(RequestStopIfSingleUsedDaemon.java:34)
+	at org.gradle.launcher.daemon.server.api.DaemonCommandExecution.proceed(DaemonCommandExecution.java:120)
+	at org.gradle.launcher.daemon.server.exec.ForwardClientInput$2.call(ForwardClientInput.java:74)
+	at org.gradle.launcher.daemon.server.exec.ForwardClientInput$2.call(ForwardClientInput.java:72)
+	at org.gradle.util.Swapper.swap(Swapper.java:38)
+	at org.gradle.launcher.daemon.server.exec.ForwardClientInput.execute(ForwardClientInput.java:72)
+	at org.gradle.launcher.daemon.server.api.DaemonCommandExecution.proceed(DaemonCommandExecution.java:120)
+	at org.gradle.launcher.daemon.server.exec.LogAndCheckHealth.execute(LogAndCheckHealth.java:55)
+	at org.gradle.launcher.daemon.server.api.DaemonCommandExecution.proceed(DaemonCommandExecution.java:120)
+	at org.gradle.launcher.daemon.server.exec.LogToClient.doBuild(LogToClient.java:62)
+	at org.gradle.launcher.daemon.server.exec.BuildCommandOnly.execute(BuildCommandOnly.java:36)
+	at org.gradle.launcher.daemon.server.api.DaemonCommandExecution.proceed(DaemonCommandExecution.java:120)
+	at org.gradle.launcher.daemon.server.exec.EstablishBuildEnvironment.doBuild(EstablishBuildEnvironment.java:82)
+	at org.gradle.launcher.daemon.server.exec.BuildCommandOnly.execute(BuildCommandOnly.java:36)
+	at org.gradle.launcher.daemon.server.api.DaemonCommandExecution.proceed(DaemonCommandExecution.java:120)
+	at org.gradle.launcher.daemon.server.exec.StartBuildOrRespondWithBusy$1.run(StartBuildOrRespondWithBusy.java:50)
+	at org.gradle.launcher.daemon.server.DaemonStateCoordinator$1.run(DaemonStateCoordinator.java:297)
+	at org.gradle.internal.concurrent.ExecutorPolicy$CatchAndRecordFailures.onExecute(ExecutorPolicy.java:63)
+	at org.gradle.internal.concurrent.ManagedExecutorImpl$1.run(ManagedExecutorImpl.java:46)
+	at org.gradle.internal.concurrent.ThreadFactoryImpl$ManagedThreadRunnable.run(ThreadFactoryImpl.java:55)
+Caused by: org.gradle.api.ProjectConfigurationException: A problem occurred configuring project ':app'.
+	at org.gradle.configuration.project.LifecycleProjectEvaluator.addConfigurationFailure(LifecycleProjectEvaluator.java:87)
+	at org.gradle.configuration.project.LifecycleProjectEvaluator.notifyAfterEvaluate(LifecycleProjectEvaluator.java:82)
+	at org.gradle.configuration.project.LifecycleProjectEvaluator.doConfigure(LifecycleProjectEvaluator.java:69)
+	at org.gradle.configuration.project.LifecycleProjectEvaluator.access$100(LifecycleProjectEvaluator.java:33)
+	at org.gradle.configuration.project.LifecycleProjectEvaluator$ConfigureProject.run(LifecycleProjectEvaluator.java:103)
+	at org.gradle.internal.progress.DefaultBuildOperationExecutor$RunnableBuildOperationWorker.execute(DefaultBuildOperationExecutor.java:336)
+	at org.gradle.internal.progress.DefaultBuildOperationExecutor$RunnableBuildOperationWorker.execute(DefaultBuildOperationExecutor.java:328)
+	at org.gradle.internal.progress.DefaultBuildOperationExecutor.execute(DefaultBuildOperationExecutor.java:197)
+	at org.gradle.internal.progress.DefaultBuildOperationExecutor.run(DefaultBuildOperationExecutor.java:107)
+	at org.gradle.configuration.project.LifecycleProjectEvaluator.evaluate(LifecycleProjectEvaluator.java:49)
+	at org.gradle.api.internal.project.DefaultProject.evaluate(DefaultProject.java:651)
+	at org.gradle.api.internal.project.DefaultProject.evaluate(DefaultProject.java:133)
+	at org.gradle.execution.TaskPathProjectEvaluator.configure(TaskPathProjectEvaluator.java:35)
+	at org.gradle.execution.TaskPathProjectEvaluator.configureHierarchy(TaskPathProjectEvaluator.java:62)
+	at org.gradle.configuration.DefaultBuildConfigurer.configure(DefaultBuildConfigurer.java:38)
+	at org.gradle.initialization.DefaultGradleLauncher$ConfigureBuild.run(DefaultGradleLauncher.java:246)
+	at org.gradle.internal.progress.DefaultBuildOperationExecutor$RunnableBuildOperationWorker.execute(DefaultBuildOperationExecutor.java:336)
+	at org.gradle.internal.progress.DefaultBuildOperationExecutor$RunnableBuildOperationWorker.execute(DefaultBuildOperationExecutor.java:328)
+	at org.gradle.internal.progress.DefaultBuildOperationExecutor.execute(DefaultBuildOperationExecutor.java:197)
+	at org.gradle.internal.progress.DefaultBuildOperationExecutor.run(DefaultBuildOperationExecutor.java:107)
+	at org.gradle.initialization.DefaultGradleLauncher.configureBuild(DefaultGradleLauncher.java:165)
+	at org.gradle.initialization.DefaultGradleLauncher.doBuildStages(DefaultGradleLauncher.java:124)
+	... 62 more
+Caused by: java.lang.IllegalStateException: Failed to find target with hash string 'android-26' in: C:\Users\User1\AppData\Local\Android\Sdk
+	at com.android.builder.sdk.DefaultSdkLoader.getTargetInfo(DefaultSdkLoader.java:166)
+	at com.android.build.gradle.internal.SdkHandler.initTarget(SdkHandler.java:171)
+	at com.android.build.gradle.BasePlugin.ensureTargetSetup(BasePlugin.java:718)
+	at com.android.build.gradle.BasePlugin.createAndroidTasks(BasePlugin.java:600)
+	at com.android.build.gradle.BasePlugin.lambda$null$3(BasePlugin.java:555)
+	at com.android.builder.profile.ThreadRecorder.record(ThreadRecorder.java:81)
+	at com.android.build.gradle.BasePlugin.lambda$createTasks$4(BasePlugin.java:551)
+	at org.gradle.internal.event.BroadcastDispatch$ActionInvocationHandler.dispatch(BroadcastDispatch.java:91)
+	at org.gradle.internal.event.BroadcastDispatch$ActionInvocationHandler.dispatch(BroadcastDispatch.java:80)
+	at org.gradle.internal.event.AbstractBroadcastDispatch.dispatch(AbstractBroadcastDispatch.java:42)
+	at org.gradle.internal.event.BroadcastDispatch$SingletonDispatch.dispatch(BroadcastDispatch.java:230)
+	at org.gradle.internal.event.BroadcastDispatch$SingletonDispatch.dispatch(BroadcastDispatch.java:149)
+	at org.gradle.internal.event.AbstractBroadcastDispatch.dispatch(AbstractBroadcastDispatch.java:58)
+	at org.gradle.internal.event.BroadcastDispatch$CompositeDispatch.dispatch(BroadcastDispatch.java:324)
+	at org.gradle.internal.event.BroadcastDispatch$CompositeDispatch.dispatch(BroadcastDispatch.java:234)
+	at org.gradle.internal.event.ListenerBroadcast.dispatch(ListenerBroadcast.java:140)
+	at org.gradle.internal.event.ListenerBroadcast.dispatch(ListenerBroadcast.java:37)
+	at org.gradle.internal.dispatch.ProxyDispatchAdapter$DispatchingInvocationHandler.invoke(ProxyDispatchAdapter.java:93)
+	at com.sun.proxy.$Proxy33.afterEvaluate(Unknown Source)
+	at org.gradle.configuration.project.LifecycleProjectEvaluator.notifyAfterEvaluate(LifecycleProjectEvaluator.java:75)
+	... 82 more
+2018-03-05 00:30:54,921 [ thread 13]   WARN - nal.AbstractExternalSystemTask - Failed to find target with hash string 'android-26' in: C:\Users\User1\AppData\Local\Android\Sdk 
+com.intellij.openapi.externalSystem.model.ExternalSystemException: Failed to find target with hash string 'android-26' in: C:\Users\User1\AppData\Local\Android\Sdk
+	at com.android.tools.idea.gradle.project.sync.idea.ProjectImportErrorHandler.getUserFriendlyError(ProjectImportErrorHandler.java:85)
+	at com.android.tools.idea.gradle.project.sync.idea.AndroidGradleProjectResolver.getUserFriendlyError(AndroidGradleProjectResolver.java:414)
+	at org.jetbrains.plugins.gradle.service.project.AbstractProjectResolverExtension.getUserFriendlyError(AbstractProjectResolverExtension.java:158)
+	at org.jetbrains.plugins.gradle.service.project.GradleProjectResolver$ProjectConnectionDataNodeFunction.fun(GradleProjectResolver.java:906)
+	at org.jetbrains.plugins.gradle.service.project.GradleProjectResolver$ProjectConnectionDataNodeFunction.fun(GradleProjectResolver.java:886)
+	at org.jetbrains.plugins.gradle.service.execution.GradleExecutionHelper.execute(GradleExecutionHelper.java:218)
+	at org.jetbrains.plugins.gradle.service.project.GradleProjectResolver.resolveProjectInfo(GradleProjectResolver.java:139)
+	at org.jetbrains.plugins.gradle.service.project.GradleProjectResolver.resolveProjectInfo(GradleProjectResolver.java:79)
+	at com.intellij.openapi.externalSystem.service.remote.RemoteExternalSystemProjectResolverImpl.lambda$resolveProjectInfo$0(RemoteExternalSystemProjectResolverImpl.java:37)
+	at com.intellij.openapi.externalSystem.service.remote.AbstractRemoteExternalSystemService.execute(AbstractRemoteExternalSystemService.java:59)
+	at com.intellij.openapi.externalSystem.service.remote.RemoteExternalSystemProjectResolverImpl.resolveProjectInfo(RemoteExternalSystemProjectResolverImpl.java:37)
+	at com.intellij.openapi.externalSystem.service.remote.wrapper.ExternalSystemProjectResolverWrapper.resolveProjectInfo(ExternalSystemProjectResolverWrapper.java:45)
+	at com.intellij.openapi.externalSystem.service.internal.ExternalSystemResolveProjectTask.doExecute(ExternalSystemResolveProjectTask.java:66)
+	at com.intellij.openapi.externalSystem.service.internal.AbstractExternalSystemTask.execute(AbstractExternalSystemTask.java:139)
+	at com.intellij.openapi.externalSystem.service.internal.AbstractExternalSystemTask.execute(AbstractExternalSystemTask.java:125)
+	at com.intellij.openapi.externalSystem.util.ExternalSystemUtil$3.execute(ExternalSystemUtil.java:388)
+	at com.intellij.openapi.externalSystem.util.ExternalSystemUtil$4.run(ExternalSystemUtil.java:436)
+	at com.intellij.openapi.progress.impl.CoreProgressManager$TaskRunnable.run(CoreProgressManager.java:726)
+	at com.intellij.openapi.progress.impl.CoreProgressManager$6.run(CoreProgressManager.java:410)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.lambda$runProcess$1(CoreProgressManager.java:176)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.registerIndicatorAndRun(CoreProgressManager.java:556)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.executeProcessUnderProgress(CoreProgressManager.java:501)
+	at com.intellij.openapi.progress.impl.ProgressManagerImpl.executeProcessUnderProgress(ProgressManagerImpl.java:66)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.runProcess(CoreProgressManager.java:163)
+	at com.intellij.openapi.application.impl.ApplicationImpl.lambda$null$9(ApplicationImpl.java:594)
+	at com.intellij.openapi.application.impl.ApplicationImpl$2.run(ApplicationImpl.java:334)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+Caused by: java.lang.IllegalStateException: Failed to find target with hash string 'android-26' in: C:\Users\User1\AppData\Local\Android\Sdk
+	at com.android.builder.sdk.DefaultSdkLoader.getTargetInfo(DefaultSdkLoader.java:166)
+	at com.android.build.gradle.internal.SdkHandler.initTarget(SdkHandler.java:171)
+	at com.android.build.gradle.BasePlugin.ensureTargetSetup(BasePlugin.java:718)
+	at com.android.build.gradle.BasePlugin.createAndroidTasks(BasePlugin.java:600)
+	at com.android.build.gradle.BasePlugin.lambda$null$3(BasePlugin.java:555)
+	at com.android.builder.profile.ThreadRecorder.record(ThreadRecorder.java:81)
+	at com.android.build.gradle.BasePlugin.lambda$createTasks$4(BasePlugin.java:551)
+	at org.gradle.internal.event.BroadcastDispatch$ActionInvocationHandler.dispatch(BroadcastDispatch.java:91)
+	at org.gradle.internal.event.BroadcastDispatch$ActionInvocationHandler.dispatch(BroadcastDispatch.java:80)
+	at org.gradle.internal.event.AbstractBroadcastDispatch.dispatch(AbstractBroadcastDispatch.java:42)
+	at org.gradle.internal.event.BroadcastDispatch$SingletonDispatch.dispatch(BroadcastDispatch.java:230)
+	at org.gradle.internal.event.BroadcastDispatch$SingletonDispatch.dispatch(BroadcastDispatch.java:149)
+	at org.gradle.internal.event.AbstractBroadcastDispatch.dispatch(AbstractBroadcastDispatch.java:58)
+	at org.gradle.internal.event.BroadcastDispatch$CompositeDispatch.dispatch(BroadcastDispatch.java:324)
+	at org.gradle.internal.event.BroadcastDispatch$CompositeDispatch.dispatch(BroadcastDispatch.java:234)
+	at org.gradle.internal.event.ListenerBroadcast.dispatch(ListenerBroadcast.java:140)
+	at org.gradle.internal.event.ListenerBroadcast.dispatch(ListenerBroadcast.java:37)
+	at org.gradle.internal.dispatch.ProxyDispatchAdapter$DispatchingInvocationHandler.invoke(ProxyDispatchAdapter.java:93)
+	at com.sun.proxy.$Proxy33.afterEvaluate(Unknown Source)
+	at org.gradle.configuration.project.LifecycleProjectEvaluator.notifyAfterEvaluate(LifecycleProjectEvaluator.java:75)
+	at org.gradle.configuration.project.LifecycleProjectEvaluator.doConfigure(LifecycleProjectEvaluator.java:69)
+	at org.gradle.configuration.project.LifecycleProjectEvaluator.access$100(LifecycleProjectEvaluator.java:33)
+	at org.gradle.configuration.project.LifecycleProjectEvaluator$ConfigureProject.run(LifecycleProjectEvaluator.java:103)
+	at org.gradle.internal.progress.DefaultBuildOperationExecutor$RunnableBuildOperationWorker.execute(DefaultBuildOperationExecutor.java:336)
+	at org.gradle.internal.progress.DefaultBuildOperationExecutor$RunnableBuildOperationWorker.execute(DefaultBuildOperationExecutor.java:328)
+	at org.gradle.internal.progress.DefaultBuildOperationExecutor.execute(DefaultBuildOperationExecutor.java:197)
+	at org.gradle.internal.progress.DefaultBuildOperationExecutor.run(DefaultBuildOperationExecutor.java:107)
+	at org.gradle.configuration.project.LifecycleProjectEvaluator.evaluate(LifecycleProjectEvaluator.java:49)
+	at org.gradle.api.internal.project.DefaultProject.evaluate(DefaultProject.java:651)
+	at org.gradle.api.internal.project.DefaultProject.evaluate(DefaultProject.java:133)
+	at org.gradle.execution.TaskPathProjectEvaluator.configure(TaskPathProjectEvaluator.java:35)
+	at org.gradle.execution.TaskPathProjectEvaluator.configureHierarchy(TaskPathProjectEvaluator.java:62)
+	at org.gradle.configuration.DefaultBuildConfigurer.configure(DefaultBuildConfigurer.java:38)
+	at org.gradle.initialization.DefaultGradleLauncher$ConfigureBuild.run(DefaultGradleLauncher.java:246)
+	at org.gradle.internal.progress.DefaultBuildOperationExecutor$RunnableBuildOperationWorker.execute(DefaultBuildOperationExecutor.java:336)
+	at org.gradle.internal.progress.DefaultBuildOperationExecutor$RunnableBuildOperationWorker.execute(DefaultBuildOperationExecutor.java:328)
+	at org.gradle.internal.progress.DefaultBuildOperationExecutor.execute(DefaultBuildOperationExecutor.java:197)
+	at org.gradle.internal.progress.DefaultBuildOperationExecutor.run(DefaultBuildOperationExecutor.java:107)
+	at org.gradle.initialization.DefaultGradleLauncher.configureBuild(DefaultGradleLauncher.java:165)
+	at org.gradle.initialization.DefaultGradleLauncher.doBuildStages(DefaultGradleLauncher.java:124)
+	at org.gradle.initialization.DefaultGradleLauncher.getConfiguredBuild(DefaultGradleLauncher.java:102)
+	at org.gradle.internal.invocation.GradleBuildController$2.call(GradleBuildController.java:87)
+	at org.gradle.internal.invocation.GradleBuildController$2.call(GradleBuildController.java:84)
+	at org.gradle.internal.work.DefaultWorkerLeaseService.withLocks(DefaultWorkerLeaseService.java:152)
+	at org.gradle.internal.invocation.GradleBuildController.doBuild(GradleBuildController.java:100)
+	at org.gradle.internal.invocation.GradleBuildController.configure(GradleBuildController.java:84)
+	at org.gradle.tooling.internal.provider.runner.ClientProvidedBuildActionRunner.run(ClientProvidedBuildActionRunner.java:65)
+	at org.gradle.launcher.exec.ChainingBuildActionRunner.run(ChainingBuildActionRunner.java:35)
+	at org.gradle.launcher.exec.ChainingBuildActionRunner.run(ChainingBuildActionRunner.java:35)
+	at org.gradle.tooling.internal.provider.ValidatingBuildActionRunner.run(ValidatingBuildActionRunner.java:32)
+	at org.gradle.launcher.exec.RunAsBuildOperationBuildActionRunner$1.run(RunAsBuildOperationBuildActionRunner.java:43)
+	at org.gradle.internal.progress.DefaultBuildOperationExecutor$RunnableBuildOperationWorker.execute(DefaultBuildOperationExecutor.java:336)
+	at org.gradle.internal.progress.DefaultBuildOperationExecutor$RunnableBuildOperationWorker.execute(DefaultBuildOperationExecutor.java:328)
+	at org.gradle.internal.progress.DefaultBuildOperationExecutor.execute(DefaultBuildOperationExecutor.java:197)
+	at org.gradle.internal.progress.DefaultBuildOperationExecutor.run(DefaultBuildOperationExecutor.java:107)
+	at org.gradle.launcher.exec.RunAsBuildOperationBuildActionRunner.run(RunAsBuildOperationBuildActionRunner.java:40)
+	at org.gradle.tooling.internal.provider.SubscribableBuildActionRunner.run(SubscribableBuildActionRunner.java:51)
+	at org.gradle.launcher.exec.InProcessBuildActionExecuter.execute(InProcessBuildActionExecuter.java:45)
+	at org.gradle.launcher.exec.InProcessBuildActionExecuter.execute(InProcessBuildActionExecuter.java:29)
+	at org.gradle.launcher.exec.BuildTreeScopeBuildActionExecuter.execute(BuildTreeScopeBuildActionExecuter.java:39)
+	at org.gradle.launcher.exec.BuildTreeScopeBuildActionExecuter.execute(BuildTreeScopeBuildActionExecuter.java:25)
+	at org.gradle.tooling.internal.provider.ContinuousBuildActionExecuter.execute(ContinuousBuildActionExecuter.java:71)
+	at org.gradle.tooling.internal.provider.ContinuousBuildActionExecuter.execute(ContinuousBuildActionExecuter.java:45)
+	at org.gradle.tooling.internal.provider.ServicesSetupBuildActionExecuter.execute(ServicesSetupBuildActionExecuter.java:51)
+	at org.gradle.tooling.internal.provider.ServicesSetupBuildActionExecuter.execute(ServicesSetupBuildActionExecuter.java:32)
+	at org.gradle.tooling.internal.provider.GradleThreadBuildActionExecuter.execute(GradleThreadBuildActionExecuter.java:36)
+	at org.gradle.tooling.internal.provider.GradleThreadBuildActionExecuter.execute(GradleThreadBuildActionExecuter.java:25)
+	at org.gradle.tooling.internal.provider.ParallelismConfigurationBuildActionExecuter.execute(ParallelismConfigurationBuildActionExecuter.java:43)
+	at org.gradle.tooling.internal.provider.ParallelismConfigurationBuildActionExecuter.execute(ParallelismConfigurationBuildActionExecuter.java:29)
+	at org.gradle.tooling.internal.provider.StartParamsValidatingActionExecuter.execute(StartParamsValidatingActionExecuter.java:64)
+	at org.gradle.tooling.internal.provider.StartParamsValidatingActionExecuter.execute(StartParamsValidatingActionExecuter.java:29)
+	at org.gradle.tooling.internal.provider.SessionFailureReportingActionExecuter.execute(SessionFailureReportingActionExecuter.java:55)
+	at org.gradle.tooling.internal.provider.SessionFailureReportingActionExecuter.execute(SessionFailureReportingActionExecuter.java:42)
+	at org.gradle.tooling.internal.provider.SetupLoggingActionExecuter.execute(SetupLoggingActionExecuter.java:58)
+	at org.gradle.tooling.internal.provider.SetupLoggingActionExecuter.execute(SetupLoggingActionExecuter.java:33)
+	at org.gradle.launcher.daemon.server.exec.ExecuteBuild.doBuild(ExecuteBuild.java:67)
+	at org.gradle.launcher.daemon.server.exec.BuildCommandOnly.execute(BuildCommandOnly.java:36)
+	at org.gradle.launcher.daemon.server.api.DaemonCommandExecution.proceed(DaemonCommandExecution.java:120)
+	at org.gradle.launcher.daemon.server.exec.WatchForDisconnection.execute(WatchForDisconnection.java:37)
+	at org.gradle.launcher.daemon.server.api.DaemonCommandExecution.proceed(DaemonCommandExecution.java:120)
+	at org.gradle.launcher.daemon.server.exec.ResetDeprecationLogger.execute(ResetDeprecationLogger.java:26)
+	at org.gradle.launcher.daemon.server.api.DaemonCommandExecution.proceed(DaemonCommandExecution.java:120)
+	at org.gradle.launcher.daemon.server.exec.RequestStopIfSingleUsedDaemon.execute(RequestStopIfSingleUsedDaemon.java:34)
+	at org.gradle.launcher.daemon.server.api.DaemonCommandExecution.proceed(DaemonCommandExecution.java:120)
+	at org.gradle.launcher.daemon.server.exec.ForwardClientInput$2.call(ForwardClientInput.java:74)
+	at org.gradle.launcher.daemon.server.exec.ForwardClientInput$2.call(ForwardClientInput.java:72)
+	at org.gradle.util.Swapper.swap(Swapper.java:38)
+	at org.gradle.launcher.daemon.server.exec.ForwardClientInput.execute(ForwardClientInput.java:72)
+	at org.gradle.launcher.daemon.server.api.DaemonCommandExecution.proceed(DaemonCommandExecution.java:120)
+	at org.gradle.launcher.daemon.server.exec.LogAndCheckHealth.execute(LogAndCheckHealth.java:55)
+	at org.gradle.launcher.daemon.server.api.DaemonCommandExecution.proceed(DaemonCommandExecution.java:120)
+	at org.gradle.launcher.daemon.server.exec.LogToClient.doBuild(LogToClient.java:62)
+	at org.gradle.launcher.daemon.server.exec.BuildCommandOnly.execute(BuildCommandOnly.java:36)
+	at org.gradle.launcher.daemon.server.api.DaemonCommandExecution.proceed(DaemonCommandExecution.java:120)
+	at org.gradle.launcher.daemon.server.exec.EstablishBuildEnvironment.doBuild(EstablishBuildEnvironment.java:82)
+	at org.gradle.launcher.daemon.server.exec.BuildCommandOnly.execute(BuildCommandOnly.java:36)
+	at org.gradle.launcher.daemon.server.api.DaemonCommandExecution.proceed(DaemonCommandExecution.java:120)
+	at org.gradle.launcher.daemon.server.exec.StartBuildOrRespondWithBusy$1.run(StartBuildOrRespondWithBusy.java:50)
+	at org.gradle.launcher.daemon.server.DaemonStateCoordinator$1.run(DaemonStateCoordinator.java:297)
+	at org.gradle.internal.concurrent.ExecutorPolicy$CatchAndRecordFailures.onExecute(ExecutorPolicy.java:63)
+	at org.gradle.internal.concurrent.ManagedExecutorImpl$1.run(ManagedExecutorImpl.java:46)
+	at org.gradle.internal.concurrent.ThreadFactoryImpl$ManagedThreadRunnable.run(ThreadFactoryImpl.java:55)
+
+2018-03-05 00:30:54,952 [ thread 13]   WARN - ect.sync.idea.ProjectSetUpTask - Failed to find target with hash string 'android-26' in: C:\Users\User1\AppData\Local\Android\Sdk
+
+Consult IDE log for more details (Help | Show Log) 
+2018-03-05 00:30:54,952 [ thread 13]   INFO - e.project.sync.GradleSyncState - Gradle sync failed: Failed to find target with hash string 'android-26' in: C:\Users\User1\AppData\Local\Android\Sdk
+
+Consult IDE log for more details (Help | Show Log) (5m 34s 962ms) 
+2018-03-05 00:31:00,502 [se-915-b01]   INFO - tartup.impl.StartupManagerImpl - C:/Users/User1/AndroidStudioProjects/Test/.idea case-sensitivity: expected=false actual=false 
+2018-03-05 00:31:02,722 [se-915-b01]   INFO - tor.impl.FileEditorManagerImpl - Project opening took 355412 ms 
+2018-03-05 00:31:04,443 [ thread 18]   INFO - .diagnostic.PerformanceWatcher - Pushing properties took 3329ms; general responsiveness: ok; EDT responsiveness: 1/3 sluggish, 2/3 very slow 
+2018-03-05 00:31:08,589 [ thread 18]   INFO -       ScriptTemplatesProviders - [kts] loading script definitions [] using cp:  
+2018-03-05 00:31:08,605 [ thread 18]   INFO -       ScriptTemplatesProviders - Templates provider KotlinCompilerScriptTemplatesSettings is invalid:  
+2018-03-05 00:31:08,636 [ thread 18]   INFO - s.plugins.gradle.GradleManager - Instructing gradle to use java from C:/Program Files/Android/Android Studio/jre 
+2018-03-05 00:31:08,636 [ thread 18]   INFO -       ScriptTemplatesProviders - [kts] loading script definitions [org.gradle.kotlin.dsl.KotlinBuildScript] using cp: C:\Users\User1\.gradle\wrapper\dists\gradle-4.1-all\bzyivzo6n839fup2jbap0tjew\gradle-4.1\lib\gradle-core-4.1.jar;C:\Users\User1\.gradle\wrapper\dists\gradle-4.1-all\bzyivzo6n839fup2jbap0tjew\gradle-4.1\lib\gradle-kotlin-dsl-0.10.3.jar;C:\Users\User1\.gradle\wrapper\dists\gradle-4.1-all\bzyivzo6n839fup2jbap0tjew\gradle-4.1\lib\gradle-kotlin-dsl-compiler-plugin-0.10.3.jar;C:\Users\User1\.gradle\wrapper\dists\gradle-4.1-all\bzyivzo6n839fup2jbap0tjew\gradle-4.1\lib\gradle-kotlin-dsl-tooling-builders-0.10.3.jar;C:\Users\User1\.gradle\wrapper\dists\gradle-4.1-all\bzyivzo6n839fup2jbap0tjew\gradle-4.1\lib\gradle-kotlin-dsl-tooling-models-0.10.3.jar;C:\Users\User1\.gradle\wrapper\dists\gradle-4.1-all\bzyivzo6n839fup2jbap0tjew\gradle-4.1\lib\kotlin-compiler-embeddable-1.1.3-2.jar 
+2018-03-05 00:31:08,808 [ thread 18]   INFO - s.plugins.gradle.GradleManager - Instructing gradle to use java from C:/Program Files/Android/Android Studio/jre 
+2018-03-05 00:31:08,808 [ thread 18]   INFO -       ScriptTemplatesProviders - [kts] loading script definitions [org.gradle.script.lang.kotlin.KotlinBuildScript] using cp: C:\Users\User1\.gradle\wrapper\dists\gradle-4.1-all\bzyivzo6n839fup2jbap0tjew\gradle-4.1\lib\gradle-core-4.1.jar 
+2018-03-05 00:31:08,823 [ thread 18]   INFO -       ScriptTemplatesProviders - Templates provider Gradle Script Kotlin is invalid: org.gradle.script.lang.kotlin.KotlinBuildScript 
+2018-03-05 00:31:08,823 [ thread 18]   INFO -       ScriptTemplatesProviders - [kts] loading script definitions [kotlin.script.templates.standard.ScriptTemplateWithArgs] using cp:  
+2018-03-05 00:31:29,021 [ thread 18]   INFO - .diagnostic.PerformanceWatcher - Indexable file iteration took 24486ms; general responsiveness: 2/24 sluggish; EDT responsiveness: 1/24 sluggish 
+2018-03-05 00:31:29,083 [ thread 18]   INFO - indexing.UnindexedFilesUpdater - Unindexed files update started: 23923 files to update 
+2018-03-05 00:31:33,606 [ thread 13]   INFO - s.RepoProgressIndicatorAdapter - Parsing C:\Users\User1\AppData\Local\Android\Sdk\build-tools\27.0.3\package.xml 
+2018-03-05 00:31:33,766 [ thread 13]   INFO - s.RepoProgressIndicatorAdapter - Parsing C:\Users\User1\AppData\Local\Android\Sdk\emulator\package.xml 
+2018-03-05 00:31:33,800 [ thread 13]   INFO - s.RepoProgressIndicatorAdapter - Parsing C:\Users\User1\AppData\Local\Android\Sdk\extras\android\m2repository\package.xml 
+2018-03-05 00:31:33,830 [ thread 13]   INFO - s.RepoProgressIndicatorAdapter - Parsing C:\Users\User1\AppData\Local\Android\Sdk\extras\google\m2repository\package.xml 
+2018-03-05 00:31:33,875 [ thread 13]   INFO - s.RepoProgressIndicatorAdapter - Parsing C:\Users\User1\AppData\Local\Android\Sdk\extras\intel\Hardware_Accelerated_Execution_Manager\package.xml 
+2018-03-05 00:31:33,891 [ thread 13]   INFO - s.RepoProgressIndicatorAdapter - Parsing C:\Users\User1\AppData\Local\Android\Sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\package.xml 
+2018-03-05 00:31:33,927 [ thread 13]   INFO - s.RepoProgressIndicatorAdapter - Parsing C:\Users\User1\AppData\Local\Android\Sdk\extras\m2repository\com\android\support\constraint\constraint-layout\1.0.2\package.xml 
+2018-03-05 00:31:33,953 [ thread 13]   INFO - s.RepoProgressIndicatorAdapter - Parsing C:\Users\User1\AppData\Local\Android\Sdk\patcher\v4\package.xml 
+2018-03-05 00:31:34,052 [ thread 13]   INFO - s.RepoProgressIndicatorAdapter - Parsing C:\Users\User1\AppData\Local\Android\Sdk\platform-tools\package.xml 
+2018-03-05 00:31:34,106 [ thread 13]   INFO - s.RepoProgressIndicatorAdapter - Parsing C:\Users\User1\AppData\Local\Android\Sdk\platforms\android-27\package.xml 
+2018-03-05 00:31:34,134 [ thread 13]   INFO - s.RepoProgressIndicatorAdapter - Parsing C:\Users\User1\AppData\Local\Android\Sdk\sources\android-27\package.xml 
+2018-03-05 00:31:34,161 [ thread 13]   INFO - s.RepoProgressIndicatorAdapter - Parsing C:\Users\User1\AppData\Local\Android\Sdk\tools\package.xml 
+2018-03-05 00:31:34,388 [ thread 13]   INFO - s.RepoProgressIndicatorAdapter - Downloading file:/C:/Program%20Files/Android/Android%20Studio/plugins/sdk-updates/offline-repo/offline-repo.xml 
+2018-03-05 00:31:34,556 [ thread 13]   INFO - s.RepoProgressIndicatorAdapter - Downloading https://dl.google.com/android/repository/sys-img/android/sys-img2-1.xml 
+2018-03-05 00:31:38,382 [ thread 13]   INFO - s.RepoProgressIndicatorAdapter - Downloading https://dl.google.com/android/repository/sys-img/android-wear/sys-img2-1.xml 
+2018-03-05 00:31:39,038 [ thread 13]   INFO - s.RepoProgressIndicatorAdapter - Downloading https://dl.google.com/android/repository/sys-img/android-wear-cn/sys-img2-1.xml 
+2018-03-05 00:31:39,398 [ thread 13]   INFO - s.RepoProgressIndicatorAdapter - Downloading https://dl.google.com/android/repository/sys-img/android-tv/sys-img2-1.xml 
+2018-03-05 00:31:40,130 [ thread 13]   INFO - s.RepoProgressIndicatorAdapter - Downloading https://dl.google.com/android/repository/sys-img/google_apis/sys-img2-1.xml 
+2018-03-05 00:31:41,034 [ thread 13]   INFO - s.RepoProgressIndicatorAdapter - Downloading https://dl.google.com/android/repository/sys-img/google_apis_playstore/sys-img2-1.xml 
+2018-03-05 00:31:41,346 [ thread 13]   INFO - s.RepoProgressIndicatorAdapter - Downloading https://dl.google.com/android/repository/addon2-1.xml 
+2018-03-05 00:31:41,930 [ thread 13]   INFO - s.RepoProgressIndicatorAdapter - Downloading https://dl.google.com/android/repository/glass/addon2-1.xml 
+2018-03-05 00:31:42,192 [ thread 13]   INFO - s.RepoProgressIndicatorAdapter - Downloading https://dl.google.com/android/repository/extras/intel/addon2-1.xml 
+2018-03-05 00:31:42,630 [ thread 13]   INFO - s.RepoProgressIndicatorAdapter - Downloading https://dl.google.com/android/repository/repository2-1.xml 
+2018-03-05 00:31:53,688 [se-915-b01]   INFO - ectedPackagesStep$CustomLogger - To install: 
+2018-03-05 00:31:53,689 [se-915-b01]   INFO - ectedPackagesStep$CustomLogger - - Android SDK Platform 26 (platforms;android-26) 
+2018-03-05 00:31:53,690 [se-915-b01]   INFO - ectedPackagesStep$CustomLogger -  
+2018-03-05 00:31:53,705 [ thread 13]   INFO - ectedPackagesStep$CustomLogger - Preparing "Install Android SDK Platform 26 (revision: 2)". 
+2018-03-05 00:31:53,989 [ thread 13]   INFO - ectedPackagesStep$CustomLogger - Downloading https://dl.google.com/android/repository/platform-26_r02.zip 
+2018-03-05 00:32:45,225 [ thread 18]   INFO - .diagnostic.PerformanceWatcher - Unindexed files update took 76142ms; general responsiveness: 4/75 sluggish; EDT responsiveness: 1/75 sluggish, 3/75 very slow 
+2018-03-05 00:35:48,110 [ thread 13]   INFO - ectedPackagesStep$CustomLogger - "Install Android SDK Platform 26 (revision: 2)" ready. 
+2018-03-05 00:35:48,141 [ thread 13]   INFO - ectedPackagesStep$CustomLogger - Installing Android SDK Platform 26 in C:\Users\User1\AppData\Local\Android\Sdk\platforms\android-26 
+2018-03-05 00:35:48,235 [ thread 13]   INFO - ectedPackagesStep$CustomLogger - "Install Android SDK Platform 26 (revision: 2)" complete. 
+2018-03-05 00:35:48,282 [ thread 13]   INFO - ectedPackagesStep$CustomLogger - "Install Android SDK Platform 26 (revision: 2)" finished. 
+2018-03-05 00:35:54,816 [ thread 18]   INFO -       #com.jetbrains.cidr.lang - Clearing symbols finished in 189 s. 
+2018-03-05 00:35:54,863 [se-915-b01]   INFO - e.project.sync.GradleSyncState - Started sync with Gradle for project 'Test'. 
+2018-03-05 00:35:54,941 [ thread 18]   INFO -       #com.jetbrains.cidr.lang - Loading symbols finished in 0 s. 
+2018-03-05 00:35:55,050 [ thread 19]   INFO - s.plugins.gradle.GradleManager - Instructing gradle to use java from C:/Program Files/Android/Android Studio/jre 
+2018-03-05 00:35:55,097 [ thread 19]   INFO - s.plugins.gradle.GradleManager - Instructing gradle to use java from C:/Program Files/Android/Android Studio/jre 
+2018-03-05 00:35:55,206 [ thread 18]   INFO -       #com.jetbrains.cidr.lang - Building symbols finished in 0 s. 
+2018-03-05 00:35:55,269 [ thread 19]   INFO - oject.common.GradleInitScripts - init script file sync.local.repo contents "allprojects {\n  buildscript {\n    repositories {\n      maven { url 'C:\\\\Program Files\\\\Android\\\\Android Studio\\\\gradle\\\\m2repository'}\n    }\n  }\n  repositories {\n      maven { url 'C:\\\\Program Files\\\\Android\\\\Android Studio\\\\gradle\\\\m2repository'}\n  }\n}\n" 
+2018-03-05 00:35:55,300 [ thread 19]   INFO - xecution.GradleExecutionHelper - Passing command-line args to Gradle Tooling API: -Didea.version=3.0 -Djava.awt.headless=true -Pandroid.injected.build.model.only=true -Pandroid.injected.build.model.only.advanced=true -Pandroid.injected.invoked.from.ide=true -Pandroid.injected.build.model.only.versioned=3 -Pandroid.injected.studio.version=3.0.1.0 --init-script C:\Users\User1\AppData\Local\Temp\sync.local.repo1.gradle --init-script C:\Users\User1\AppData\Local\Temp\ijinit.gradle 
+2018-03-05 00:35:55,316 [ thread 18]   INFO -       #com.jetbrains.cidr.lang - Saving symbols finished in 0 s. 
+2018-03-05 00:35:55,858 [ thread 20]   INFO - CompilerWorkspaceConfiguration - Available processors: 4 
+2018-03-05 00:35:55,867 [se-915-b01]   INFO - tartup.impl.StartupManagerImpl - ProjectInspectionProfileStartUpActivity run in 301 
+2018-03-05 00:35:56,117 [se-915-b01]   INFO - tartup.impl.StartupManagerImpl - InitLogStartupActivity run in 218 
+2018-03-05 00:36:25,692 [ thread 19]   INFO - .project.GradleProjectResolver - Gradle project resolve error 
+org.gradle.tooling.BuildException: Could not run build action using Gradle distribution 'https://services.gradle.org/distributions/gradle-4.1-all.zip'.
+	at org.gradle.tooling.internal.consumer.ExceptionTransformer.transform(ExceptionTransformer.java:51)
+	at org.gradle.tooling.internal.consumer.ExceptionTransformer.transform(ExceptionTransformer.java:29)
+	at org.gradle.tooling.internal.consumer.ResultHandlerAdapter.onFailure(ResultHandlerAdapter.java:41)
+	at org.gradle.tooling.internal.consumer.async.DefaultAsyncConsumerActionExecutor$1$1.run(DefaultAsyncConsumerActionExecutor.java:57)
+	at org.gradle.internal.concurrent.ExecutorPolicy$CatchAndRecordFailures.onExecute(ExecutorPolicy.java:63)
+	at org.gradle.internal.concurrent.StoppableExecutorImpl$1.run(StoppableExecutorImpl.java:46)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+	at org.gradle.tooling.internal.consumer.BlockingResultHandler.getResult(BlockingResultHandler.java:46)
+	at org.gradle.tooling.internal.consumer.DefaultBuildActionExecuter.run(DefaultBuildActionExecuter.java:60)
+	at org.jetbrains.plugins.gradle.service.project.GradleProjectResolver.doResolveProjectInfo(GradleProjectResolver.java:258)
+	at org.jetbrains.plugins.gradle.service.project.GradleProjectResolver.access$200(GradleProjectResolver.java:79)
+	at org.jetbrains.plugins.gradle.service.project.GradleProjectResolver$ProjectConnectionDataNodeFunction.fun(GradleProjectResolver.java:902)
+	at org.jetbrains.plugins.gradle.service.project.GradleProjectResolver$ProjectConnectionDataNodeFunction.fun(GradleProjectResolver.java:886)
+	at org.jetbrains.plugins.gradle.service.execution.GradleExecutionHelper.execute(GradleExecutionHelper.java:218)
+	at org.jetbrains.plugins.gradle.service.project.GradleProjectResolver.resolveProjectInfo(GradleProjectResolver.java:139)
+	at org.jetbrains.plugins.gradle.service.project.GradleProjectResolver.resolveProjectInfo(GradleProjectResolver.java:79)
+	at com.intellij.openapi.externalSystem.service.remote.RemoteExternalSystemProjectResolverImpl.lambda$resolveProjectInfo$0(RemoteExternalSystemProjectResolverImpl.java:37)
+	at com.intellij.openapi.externalSystem.service.remote.AbstractRemoteExternalSystemService.execute(AbstractRemoteExternalSystemService.java:59)
+	at com.intellij.openapi.externalSystem.service.remote.RemoteExternalSystemProjectResolverImpl.resolveProjectInfo(RemoteExternalSystemProjectResolverImpl.java:37)
+	at com.intellij.openapi.externalSystem.service.remote.wrapper.ExternalSystemProjectResolverWrapper.resolveProjectInfo(ExternalSystemProjectResolverWrapper.java:45)
+	at com.intellij.openapi.externalSystem.service.internal.ExternalSystemResolveProjectTask.doExecute(ExternalSystemResolveProjectTask.java:66)
+	at com.intellij.openapi.externalSystem.service.internal.AbstractExternalSystemTask.execute(AbstractExternalSystemTask.java:139)
+	at com.intellij.openapi.externalSystem.service.internal.AbstractExternalSystemTask.execute(AbstractExternalSystemTask.java:125)
+	at com.intellij.openapi.externalSystem.util.ExternalSystemUtil$3.execute(ExternalSystemUtil.java:388)
+	at com.intellij.openapi.externalSystem.util.ExternalSystemUtil$5.run(ExternalSystemUtil.java:445)
+	at com.intellij.openapi.progress.impl.CoreProgressManager$TaskRunnable.run(CoreProgressManager.java:726)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.lambda$runProcess$1(CoreProgressManager.java:176)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.registerIndicatorAndRun(CoreProgressManager.java:556)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.executeProcessUnderProgress(CoreProgressManager.java:501)
+	at com.intellij.openapi.progress.impl.ProgressManagerImpl.executeProcessUnderProgress(ProgressManagerImpl.java:66)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.runProcess(CoreProgressManager.java:163)
+	at com.intellij.openapi.progress.impl.ProgressManagerImpl$1.run(ProgressManagerImpl.java:137)
+	at com.intellij.openapi.application.impl.ApplicationImpl$2.run(ApplicationImpl.java:334)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+Caused by: org.gradle.internal.exceptions.LocationAwareException: A problem occurred configuring project ':app'.
+	at org.gradle.initialization.DefaultExceptionAnalyser.transform(DefaultExceptionAnalyser.java:74)
+	at org.gradle.initialization.MultipleBuildFailuresExceptionAnalyser.transform(MultipleBuildFailuresExceptionAnalyser.java:47)
+	at org.gradle.initialization.StackTraceSanitizingExceptionAnalyser.transform(StackTraceSanitizingExceptionAnalyser.java:30)
+	at org.gradle.initialization.DefaultGradleLauncher.doBuildStages(DefaultGradleLauncher.java:135)
+	at org.gradle.initialization.DefaultGradleLauncher.getConfiguredBuild(DefaultGradleLauncher.java:102)
+	at org.gradle.internal.invocation.GradleBuildController$2.call(GradleBuildController.java:87)
+	at org.gradle.internal.invocation.GradleBuildController$2.call(GradleBuildController.java:84)
+	at org.gradle.internal.work.DefaultWorkerLeaseService.withLocks(DefaultWorkerLeaseService.java:152)
+	at org.gradle.internal.invocation.GradleBuildController.doBuild(GradleBuildController.java:100)
+	at org.gradle.internal.invocation.GradleBuildController.configure(GradleBuildController.java:84)
+	at org.gradle.tooling.internal.provider.runner.ClientProvidedBuildActionRunner.run(ClientProvidedBuildActionRunner.java:65)
+	at org.gradle.launcher.exec.ChainingBuildActionRunner.run(ChainingBuildActionRunner.java:35)
+	at org.gradle.launcher.exec.ChainingBuildActionRunner.run(ChainingBuildActionRunner.java:35)
+	at org.gradle.tooling.internal.provider.ValidatingBuildActionRunner.run(ValidatingBuildActionRunner.java:32)
+	at org.gradle.launcher.exec.RunAsBuildOperationBuildActionRunner$1.run(RunAsBuildOperationBuildActionRunner.java:43)
+	at org.gradle.internal.progress.DefaultBuildOperationExecutor$RunnableBuildOperationWorker.execute(DefaultBuildOperationExecutor.java:336)
+	at org.gradle.internal.progress.DefaultBuildOperationExecutor$RunnableBuildOperationWorker.execute(DefaultBuildOperationExecutor.java:328)
+	at org.gradle.internal.progress.DefaultBuildOperationExecutor.execute(DefaultBuildOperationExecutor.java:197)
+	at org.gradle.internal.progress.DefaultBuildOperationExecutor.run(DefaultBuildOperationExecutor.java:107)
+	at org.gradle.launcher.exec.RunAsBuildOperationBuildActionRunner.run(RunAsBuildOperationBuildActionRunner.java:40)
+	at org.gradle.tooling.internal.provider.SubscribableBuildActionRunner.run(SubscribableBuildActionRunner.java:51)
+	at org.gradle.launcher.exec.InProcessBuildActionExecuter.execute(InProcessBuildActionExecuter.java:45)
+	at org.gradle.launcher.exec.InProcessBuildActionExecuter.execute(InProcessBuildActionExecuter.java:29)
+	at org.gradle.launcher.exec.BuildTreeScopeBuildActionExecuter.execute(BuildTreeScopeBuildActionExecuter.java:39)
+	at org.gradle.launcher.exec.BuildTreeScopeBuildActionExecuter.execute(BuildTreeScopeBuildActionExecuter.java:25)
+	at org.gradle.tooling.internal.provider.ContinuousBuildActionExecuter.execute(ContinuousBuildActionExecuter.java:71)
+	at org.gradle.tooling.internal.provider.ContinuousBuildActionExecuter.execute(ContinuousBuildActionExecuter.java:45)
+	at org.gradle.tooling.internal.provider.ServicesSetupBuildActionExecuter.execute(ServicesSetupBuildActionExecuter.java:51)
+	at org.gradle.tooling.internal.provider.ServicesSetupBuildActionExecuter.execute(ServicesSetupBuildActionExecuter.java:32)
+	at org.gradle.tooling.internal.provider.GradleThreadBuildActionExecuter.execute(GradleThreadBuildActionExecuter.java:36)
+	at org.gradle.tooling.internal.provider.GradleThreadBuildActionExecuter.execute(GradleThreadBuildActionExecuter.java:25)
+	at org.gradle.tooling.internal.provider.ParallelismConfigurationBuildActionExecuter.execute(ParallelismConfigurationBuildActionExecuter.java:43)
+	at org.gradle.tooling.internal.provider.ParallelismConfigurationBuildActionExecuter.execute(ParallelismConfigurationBuildActionExecuter.java:29)
+	at org.gradle.tooling.internal.provider.StartParamsValidatingActionExecuter.execute(StartParamsValidatingActionExecuter.java:64)
+	at org.gradle.tooling.internal.provider.StartParamsValidatingActionExecuter.execute(StartParamsValidatingActionExecuter.java:29)
+	at org.gradle.tooling.internal.provider.SessionFailureReportingActionExecuter.execute(SessionFailureReportingActionExecuter.java:55)
+	at org.gradle.tooling.internal.provider.SessionFailureReportingActionExecuter.execute(SessionFailureReportingActionExecuter.java:42)
+	at org.gradle.tooling.internal.provider.SetupLoggingActionExecuter.execute(SetupLoggingActionExecuter.java:58)
+	at org.gradle.tooling.internal.provider.SetupLoggingActionExecuter.execute(SetupLoggingActionExecuter.java:33)
+	at org.gradle.launcher.daemon.server.exec.ExecuteBuild.doBuild(ExecuteBuild.java:67)
+	at org.gradle.launcher.daemon.server.exec.BuildCommandOnly.execute(BuildCommandOnly.java:36)
+	at org.gradle.launcher.daemon.server.api.DaemonCommandExecution.proceed(DaemonCommandExecution.java:120)
+	at org.gradle.launcher.daemon.server.exec.WatchForDisconnection.execute(WatchForDisconnection.java:37)
+	at org.gradle.launcher.daemon.server.api.DaemonCommandExecution.proceed(DaemonCommandExecution.java:120)
+	at org.gradle.launcher.daemon.server.exec.ResetDeprecationLogger.execute(ResetDeprecationLogger.java:26)
+	at org.gradle.launcher.daemon.server.api.DaemonCommandExecution.proceed(DaemonCommandExecution.java:120)
+	at org.gradle.launcher.daemon.server.exec.RequestStopIfSingleUsedDaemon.execute(RequestStopIfSingleUsedDaemon.java:34)
+	at org.gradle.launcher.daemon.server.api.DaemonCommandExecution.proceed(DaemonCommandExecution.java:120)
+	at org.gradle.launcher.daemon.server.exec.ForwardClientInput$2.call(ForwardClientInput.java:74)
+	at org.gradle.launcher.daemon.server.exec.ForwardClientInput$2.call(ForwardClientInput.java:72)
+	at org.gradle.util.Swapper.swap(Swapper.java:38)
+	at org.gradle.launcher.daemon.server.exec.ForwardClientInput.execute(ForwardClientInput.java:72)
+	at org.gradle.launcher.daemon.server.api.DaemonCommandExecution.proceed(DaemonCommandExecution.java:120)
+	at org.gradle.launcher.daemon.server.exec.LogAndCheckHealth.execute(LogAndCheckHealth.java:55)
+	at org.gradle.launcher.daemon.server.api.DaemonCommandExecution.proceed(DaemonCommandExecution.java:120)
+	at org.gradle.launcher.daemon.server.exec.LogToClient.doBuild(LogToClient.java:62)
+	at org.gradle.launcher.daemon.server.exec.BuildCommandOnly.execute(BuildCommandOnly.java:36)
+	at org.gradle.launcher.daemon.server.api.DaemonCommandExecution.proceed(DaemonCommandExecution.java:120)
+	at org.gradle.launcher.daemon.server.exec.EstablishBuildEnvironment.doBuild(EstablishBuildEnvironment.java:82)
+	at org.gradle.launcher.daemon.server.exec.BuildCommandOnly.execute(BuildCommandOnly.java:36)
+	at org.gradle.launcher.daemon.server.api.DaemonCommandExecution.proceed(DaemonCommandExecution.java:120)
+	at org.gradle.launcher.daemon.server.exec.StartBuildOrRespondWithBusy$1.run(StartBuildOrRespondWithBusy.java:50)
+	at org.gradle.launcher.daemon.server.DaemonStateCoordinator$1.run(DaemonStateCoordinator.java:297)
+	at org.gradle.internal.concurrent.ExecutorPolicy$CatchAndRecordFailures.onExecute(ExecutorPolicy.java:63)
+	at org.gradle.internal.concurrent.ManagedExecutorImpl$1.run(ManagedExecutorImpl.java:46)
+	at org.gradle.internal.concurrent.ThreadFactoryImpl$ManagedThreadRunnable.run(ThreadFactoryImpl.java:55)
+Caused by: org.gradle.api.ProjectConfigurationException: A problem occurred configuring project ':app'.
+	at org.gradle.configuration.project.LifecycleProjectEvaluator.addConfigurationFailure(LifecycleProjectEvaluator.java:87)
+	at org.gradle.configuration.project.LifecycleProjectEvaluator.notifyAfterEvaluate(LifecycleProjectEvaluator.java:82)
+	at org.gradle.configuration.project.LifecycleProjectEvaluator.doConfigure(LifecycleProjectEvaluator.java:69)
+	at org.gradle.configuration.project.LifecycleProjectEvaluator.access$100(LifecycleProjectEvaluator.java:33)
+	at org.gradle.configuration.project.LifecycleProjectEvaluator$ConfigureProject.run(LifecycleProjectEvaluator.java:103)
+	at org.gradle.internal.progress.DefaultBuildOperationExecutor$RunnableBuildOperationWorker.execute(DefaultBuildOperationExecutor.java:336)
+	at org.gradle.internal.progress.DefaultBuildOperationExecutor$RunnableBuildOperationWorker.execute(DefaultBuildOperationExecutor.java:328)
+	at org.gradle.internal.progress.DefaultBuildOperationExecutor.execute(DefaultBuildOperationExecutor.java:197)
+	at org.gradle.internal.progress.DefaultBuildOperationExecutor.run(DefaultBuildOperationExecutor.java:107)
+	at org.gradle.configuration.project.LifecycleProjectEvaluator.evaluate(LifecycleProjectEvaluator.java:49)
+	at org.gradle.api.internal.project.DefaultProject.evaluate(DefaultProject.java:651)
+	at org.gradle.api.internal.project.DefaultProject.evaluate(DefaultProject.java:133)
+	at org.gradle.execution.TaskPathProjectEvaluator.configure(TaskPathProjectEvaluator.java:35)
+	at org.gradle.execution.TaskPathProjectEvaluator.configureHierarchy(TaskPathProjectEvaluator.java:62)
+	at org.gradle.configuration.DefaultBuildConfigurer.configure(DefaultBuildConfigurer.java:38)
+	at org.gradle.initialization.DefaultGradleLauncher$ConfigureBuild.run(DefaultGradleLauncher.java:246)
+	at org.gradle.internal.progress.DefaultBuildOperationExecutor$RunnableBuildOperationWorker.execute(DefaultBuildOperationExecutor.java:336)
+	at org.gradle.internal.progress.DefaultBuildOperationExecutor$RunnableBuildOperationWorker.execute(DefaultBuildOperationExecutor.java:328)
+	at org.gradle.internal.progress.DefaultBuildOperationExecutor.execute(DefaultBuildOperationExecutor.java:197)
+	at org.gradle.internal.progress.DefaultBuildOperationExecutor.run(DefaultBuildOperationExecutor.java:107)
+	at org.gradle.initialization.DefaultGradleLauncher.configureBuild(DefaultGradleLauncher.java:165)
+	at org.gradle.initialization.DefaultGradleLauncher.doBuildStages(DefaultGradleLauncher.java:124)
+	... 62 more
+Caused by: java.lang.IllegalStateException: Failed to find Build Tools revision 26.0.2
+	at com.android.builder.sdk.DefaultSdkLoader.getTargetInfo(DefaultSdkLoader.java:175)
+	at com.android.build.gradle.internal.SdkHandler.initTarget(SdkHandler.java:171)
+	at com.android.build.gradle.BasePlugin.ensureTargetSetup(BasePlugin.java:718)
+	at com.android.build.gradle.BasePlugin.createAndroidTasks(BasePlugin.java:600)
+	at com.android.build.gradle.BasePlugin.lambda$null$3(BasePlugin.java:555)
+	at com.android.builder.profile.ThreadRecorder.record(ThreadRecorder.java:81)
+	at com.android.build.gradle.BasePlugin.lambda$createTasks$4(BasePlugin.java:551)
+	at org.gradle.internal.event.BroadcastDispatch$ActionInvocationHandler.dispatch(BroadcastDispatch.java:91)
+	at org.gradle.internal.event.BroadcastDispatch$ActionInvocationHandler.dispatch(BroadcastDispatch.java:80)
+	at org.gradle.internal.event.AbstractBroadcastDispatch.dispatch(AbstractBroadcastDispatch.java:42)
+	at org.gradle.internal.event.BroadcastDispatch$SingletonDispatch.dispatch(BroadcastDispatch.java:230)
+	at org.gradle.internal.event.BroadcastDispatch$SingletonDispatch.dispatch(BroadcastDispatch.java:149)
+	at org.gradle.internal.event.AbstractBroadcastDispatch.dispatch(AbstractBroadcastDispatch.java:58)
+	at org.gradle.internal.event.BroadcastDispatch$CompositeDispatch.dispatch(BroadcastDispatch.java:324)
+	at org.gradle.internal.event.BroadcastDispatch$CompositeDispatch.dispatch(BroadcastDispatch.java:234)
+	at org.gradle.internal.event.ListenerBroadcast.dispatch(ListenerBroadcast.java:140)
+	at org.gradle.internal.event.ListenerBroadcast.dispatch(ListenerBroadcast.java:37)
+	at org.gradle.internal.dispatch.ProxyDispatchAdapter$DispatchingInvocationHandler.invoke(ProxyDispatchAdapter.java:93)
+	at com.sun.proxy.$Proxy33.afterEvaluate(Unknown Source)
+	at org.gradle.configuration.project.LifecycleProjectEvaluator.notifyAfterEvaluate(LifecycleProjectEvaluator.java:75)
+	... 82 more
+2018-03-05 00:36:25,790 [ thread 19]   WARN - nal.AbstractExternalSystemTask - Failed to find Build Tools revision 26.0.2 
+com.intellij.openapi.externalSystem.model.ExternalSystemException: Failed to find Build Tools revision 26.0.2
+	at com.android.tools.idea.gradle.project.sync.idea.ProjectImportErrorHandler.getUserFriendlyError(ProjectImportErrorHandler.java:85)
+	at com.android.tools.idea.gradle.project.sync.idea.AndroidGradleProjectResolver.getUserFriendlyError(AndroidGradleProjectResolver.java:414)
+	at org.jetbrains.plugins.gradle.service.project.AbstractProjectResolverExtension.getUserFriendlyError(AbstractProjectResolverExtension.java:158)
+	at org.jetbrains.plugins.gradle.service.project.GradleProjectResolver$ProjectConnectionDataNodeFunction.fun(GradleProjectResolver.java:906)
+	at org.jetbrains.plugins.gradle.service.project.GradleProjectResolver$ProjectConnectionDataNodeFunction.fun(GradleProjectResolver.java:886)
+	at org.jetbrains.plugins.gradle.service.execution.GradleExecutionHelper.execute(GradleExecutionHelper.java:218)
+	at org.jetbrains.plugins.gradle.service.project.GradleProjectResolver.resolveProjectInfo(GradleProjectResolver.java:139)
+	at org.jetbrains.plugins.gradle.service.project.GradleProjectResolver.resolveProjectInfo(GradleProjectResolver.java:79)
+	at com.intellij.openapi.externalSystem.service.remote.RemoteExternalSystemProjectResolverImpl.lambda$resolveProjectInfo$0(RemoteExternalSystemProjectResolverImpl.java:37)
+	at com.intellij.openapi.externalSystem.service.remote.AbstractRemoteExternalSystemService.execute(AbstractRemoteExternalSystemService.java:59)
+	at com.intellij.openapi.externalSystem.service.remote.RemoteExternalSystemProjectResolverImpl.resolveProjectInfo(RemoteExternalSystemProjectResolverImpl.java:37)
+	at com.intellij.openapi.externalSystem.service.remote.wrapper.ExternalSystemProjectResolverWrapper.resolveProjectInfo(ExternalSystemProjectResolverWrapper.java:45)
+	at com.intellij.openapi.externalSystem.service.internal.ExternalSystemResolveProjectTask.doExecute(ExternalSystemResolveProjectTask.java:66)
+	at com.intellij.openapi.externalSystem.service.internal.AbstractExternalSystemTask.execute(AbstractExternalSystemTask.java:139)
+	at com.intellij.openapi.externalSystem.service.internal.AbstractExternalSystemTask.execute(AbstractExternalSystemTask.java:125)
+	at com.intellij.openapi.externalSystem.util.ExternalSystemUtil$3.execute(ExternalSystemUtil.java:388)
+	at com.intellij.openapi.externalSystem.util.ExternalSystemUtil$5.run(ExternalSystemUtil.java:445)
+	at com.intellij.openapi.progress.impl.CoreProgressManager$TaskRunnable.run(CoreProgressManager.java:726)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.lambda$runProcess$1(CoreProgressManager.java:176)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.registerIndicatorAndRun(CoreProgressManager.java:556)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.executeProcessUnderProgress(CoreProgressManager.java:501)
+	at com.intellij.openapi.progress.impl.ProgressManagerImpl.executeProcessUnderProgress(ProgressManagerImpl.java:66)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.runProcess(CoreProgressManager.java:163)
+	at com.intellij.openapi.progress.impl.ProgressManagerImpl$1.run(ProgressManagerImpl.java:137)
+	at com.intellij.openapi.application.impl.ApplicationImpl$2.run(ApplicationImpl.java:334)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+Caused by: java.lang.IllegalStateException: Failed to find Build Tools revision 26.0.2
+	at com.android.builder.sdk.DefaultSdkLoader.getTargetInfo(DefaultSdkLoader.java:175)
+	at com.android.build.gradle.internal.SdkHandler.initTarget(SdkHandler.java:171)
+	at com.android.build.gradle.BasePlugin.ensureTargetSetup(BasePlugin.java:718)
+	at com.android.build.gradle.BasePlugin.createAndroidTasks(BasePlugin.java:600)
+	at com.android.build.gradle.BasePlugin.lambda$null$3(BasePlugin.java:555)
+	at com.android.builder.profile.ThreadRecorder.record(ThreadRecorder.java:81)
+	at com.android.build.gradle.BasePlugin.lambda$createTasks$4(BasePlugin.java:551)
+	at org.gradle.internal.event.BroadcastDispatch$ActionInvocationHandler.dispatch(BroadcastDispatch.java:91)
+	at org.gradle.internal.event.BroadcastDispatch$ActionInvocationHandler.dispatch(BroadcastDispatch.java:80)
+	at org.gradle.internal.event.AbstractBroadcastDispatch.dispatch(AbstractBroadcastDispatch.java:42)
+	at org.gradle.internal.event.BroadcastDispatch$SingletonDispatch.dispatch(BroadcastDispatch.java:230)
+	at org.gradle.internal.event.BroadcastDispatch$SingletonDispatch.dispatch(BroadcastDispatch.java:149)
+	at org.gradle.internal.event.AbstractBroadcastDispatch.dispatch(AbstractBroadcastDispatch.java:58)
+	at org.gradle.internal.event.BroadcastDispatch$CompositeDispatch.dispatch(BroadcastDispatch.java:324)
+	at org.gradle.internal.event.BroadcastDispatch$CompositeDispatch.dispatch(BroadcastDispatch.java:234)
+	at org.gradle.internal.event.ListenerBroadcast.dispatch(ListenerBroadcast.java:140)
+	at org.gradle.internal.event.ListenerBroadcast.dispatch(ListenerBroadcast.java:37)
+	at org.gradle.internal.dispatch.ProxyDispatchAdapter$DispatchingInvocationHandler.invoke(ProxyDispatchAdapter.java:93)
+	at com.sun.proxy.$Proxy33.afterEvaluate(Unknown Source)
+	at org.gradle.configuration.project.LifecycleProjectEvaluator.notifyAfterEvaluate(LifecycleProjectEvaluator.java:75)
+	at org.gradle.configuration.project.LifecycleProjectEvaluator.doConfigure(LifecycleProjectEvaluator.java:69)
+	at org.gradle.configuration.project.LifecycleProjectEvaluator.access$100(LifecycleProjectEvaluator.java:33)
+	at org.gradle.configuration.project.LifecycleProjectEvaluator$ConfigureProject.run(LifecycleProjectEvaluator.java:103)
+	at org.gradle.internal.progress.DefaultBuildOperationExecutor$RunnableBuildOperationWorker.execute(DefaultBuildOperationExecutor.java:336)
+	at org.gradle.internal.progress.DefaultBuildOperationExecutor$RunnableBuildOperationWorker.execute(DefaultBuildOperationExecutor.java:328)
+	at org.gradle.internal.progress.DefaultBuildOperationExecutor.execute(DefaultBuildOperationExecutor.java:197)
+	at org.gradle.internal.progress.DefaultBuildOperationExecutor.run(DefaultBuildOperationExecutor.java:107)
+	at org.gradle.configuration.project.LifecycleProjectEvaluator.evaluate(LifecycleProjectEvaluator.java:49)
+	at org.gradle.api.internal.project.DefaultProject.evaluate(DefaultProject.java:651)
+	at org.gradle.api.internal.project.DefaultProject.evaluate(DefaultProject.java:133)
+	at org.gradle.execution.TaskPathProjectEvaluator.configure(TaskPathProjectEvaluator.java:35)
+	at org.gradle.execution.TaskPathProjectEvaluator.configureHierarchy(TaskPathProjectEvaluator.java:62)
+	at org.gradle.configuration.DefaultBuildConfigurer.configure(DefaultBuildConfigurer.java:38)
+	at org.gradle.initialization.DefaultGradleLauncher$ConfigureBuild.run(DefaultGradleLauncher.java:246)
+	at org.gradle.internal.progress.DefaultBuildOperationExecutor$RunnableBuildOperationWorker.execute(DefaultBuildOperationExecutor.java:336)
+	at org.gradle.internal.progress.DefaultBuildOperationExecutor$RunnableBuildOperationWorker.execute(DefaultBuildOperationExecutor.java:328)
+	at org.gradle.internal.progress.DefaultBuildOperationExecutor.execute(DefaultBuildOperationExecutor.java:197)
+	at org.gradle.internal.progress.DefaultBuildOperationExecutor.run(DefaultBuildOperationExecutor.java:107)
+	at org.gradle.initialization.DefaultGradleLauncher.configureBuild(DefaultGradleLauncher.java:165)
+	at org.gradle.initialization.DefaultGradleLauncher.doBuildStages(DefaultGradleLauncher.java:124)
+	at org.gradle.initialization.DefaultGradleLauncher.getConfiguredBuild(DefaultGradleLauncher.java:102)
+	at org.gradle.internal.invocation.GradleBuildController$2.call(GradleBuildController.java:87)
+	at org.gradle.internal.invocation.GradleBuildController$2.call(GradleBuildController.java:84)
+	at org.gradle.internal.work.DefaultWorkerLeaseService.withLocks(DefaultWorkerLeaseService.java:152)
+	at org.gradle.internal.invocation.GradleBuildController.doBuild(GradleBuildController.java:100)
+	at org.gradle.internal.invocation.GradleBuildController.configure(GradleBuildController.java:84)
+	at org.gradle.tooling.internal.provider.runner.ClientProvidedBuildActionRunner.run(ClientProvidedBuildActionRunner.java:65)
+	at org.gradle.launcher.exec.ChainingBuildActionRunner.run(ChainingBuildActionRunner.java:35)
+	at org.gradle.launcher.exec.ChainingBuildActionRunner.run(ChainingBuildActionRunner.java:35)
+	at org.gradle.tooling.internal.provider.ValidatingBuildActionRunner.run(ValidatingBuildActionRunner.java:32)
+	at org.gradle.launcher.exec.RunAsBuildOperationBuildActionRunner$1.run(RunAsBuildOperationBuildActionRunner.java:43)
+	at org.gradle.internal.progress.DefaultBuildOperationExecutor$RunnableBuildOperationWorker.execute(DefaultBuildOperationExecutor.java:336)
+	at org.gradle.internal.progress.DefaultBuildOperationExecutor$RunnableBuildOperationWorker.execute(DefaultBuildOperationExecutor.java:328)
+	at org.gradle.internal.progress.DefaultBuildOperationExecutor.execute(DefaultBuildOperationExecutor.java:197)
+	at org.gradle.internal.progress.DefaultBuildOperationExecutor.run(DefaultBuildOperationExecutor.java:107)
+	at org.gradle.launcher.exec.RunAsBuildOperationBuildActionRunner.run(RunAsBuildOperationBuildActionRunner.java:40)
+	at org.gradle.tooling.internal.provider.SubscribableBuildActionRunner.run(SubscribableBuildActionRunner.java:51)
+	at org.gradle.launcher.exec.InProcessBuildActionExecuter.execute(InProcessBuildActionExecuter.java:45)
+	at org.gradle.launcher.exec.InProcessBuildActionExecuter.execute(InProcessBuildActionExecuter.java:29)
+	at org.gradle.launcher.exec.BuildTreeScopeBuildActionExecuter.execute(BuildTreeScopeBuildActionExecuter.java:39)
+	at org.gradle.launcher.exec.BuildTreeScopeBuildActionExecuter.execute(BuildTreeScopeBuildActionExecuter.java:25)
+	at org.gradle.tooling.internal.provider.ContinuousBuildActionExecuter.execute(ContinuousBuildActionExecuter.java:71)
+	at org.gradle.tooling.internal.provider.ContinuousBuildActionExecuter.execute(ContinuousBuildActionExecuter.java:45)
+	at org.gradle.tooling.internal.provider.ServicesSetupBuildActionExecuter.execute(ServicesSetupBuildActionExecuter.java:51)
+	at org.gradle.tooling.internal.provider.ServicesSetupBuildActionExecuter.execute(ServicesSetupBuildActionExecuter.java:32)
+	at org.gradle.tooling.internal.provider.GradleThreadBuildActionExecuter.execute(GradleThreadBuildActionExecuter.java:36)
+	at org.gradle.tooling.internal.provider.GradleThreadBuildActionExecuter.execute(GradleThreadBuildActionExecuter.java:25)
+	at org.gradle.tooling.internal.provider.ParallelismConfigurationBuildActionExecuter.execute(ParallelismConfigurationBuildActionExecuter.java:43)
+	at org.gradle.tooling.internal.provider.ParallelismConfigurationBuildActionExecuter.execute(ParallelismConfigurationBuildActionExecuter.java:29)
+	at org.gradle.tooling.internal.provider.StartParamsValidatingActionExecuter.execute(StartParamsValidatingActionExecuter.java:64)
+	at org.gradle.tooling.internal.provider.StartParamsValidatingActionExecuter.execute(StartParamsValidatingActionExecuter.java:29)
+	at org.gradle.tooling.internal.provider.SessionFailureReportingActionExecuter.execute(SessionFailureReportingActionExecuter.java:55)
+	at org.gradle.tooling.internal.provider.SessionFailureReportingActionExecuter.execute(SessionFailureReportingActionExecuter.java:42)
+	at org.gradle.tooling.internal.provider.SetupLoggingActionExecuter.execute(SetupLoggingActionExecuter.java:58)
+	at org.gradle.tooling.internal.provider.SetupLoggingActionExecuter.execute(SetupLoggingActionExecuter.java:33)
+	at org.gradle.launcher.daemon.server.exec.ExecuteBuild.doBuild(ExecuteBuild.java:67)
+	at org.gradle.launcher.daemon.server.exec.BuildCommandOnly.execute(BuildCommandOnly.java:36)
+	at org.gradle.launcher.daemon.server.api.DaemonCommandExecution.proceed(DaemonCommandExecution.java:120)
+	at org.gradle.launcher.daemon.server.exec.WatchForDisconnection.execute(WatchForDisconnection.java:37)
+	at org.gradle.launcher.daemon.server.api.DaemonCommandExecution.proceed(DaemonCommandExecution.java:120)
+	at org.gradle.launcher.daemon.server.exec.ResetDeprecationLogger.execute(ResetDeprecationLogger.java:26)
+	at org.gradle.launcher.daemon.server.api.DaemonCommandExecution.proceed(DaemonCommandExecution.java:120)
+	at org.gradle.launcher.daemon.server.exec.RequestStopIfSingleUsedDaemon.execute(RequestStopIfSingleUsedDaemon.java:34)
+	at org.gradle.launcher.daemon.server.api.DaemonCommandExecution.proceed(DaemonCommandExecution.java:120)
+	at org.gradle.launcher.daemon.server.exec.ForwardClientInput$2.call(ForwardClientInput.java:74)
+	at org.gradle.launcher.daemon.server.exec.ForwardClientInput$2.call(ForwardClientInput.java:72)
+	at org.gradle.util.Swapper.swap(Swapper.java:38)
+	at org.gradle.launcher.daemon.server.exec.ForwardClientInput.execute(ForwardClientInput.java:72)
+	at org.gradle.launcher.daemon.server.api.DaemonCommandExecution.proceed(DaemonCommandExecution.java:120)
+	at org.gradle.launcher.daemon.server.exec.LogAndCheckHealth.execute(LogAndCheckHealth.java:55)
+	at org.gradle.launcher.daemon.server.api.DaemonCommandExecution.proceed(DaemonCommandExecution.java:120)
+	at org.gradle.launcher.daemon.server.exec.LogToClient.doBuild(LogToClient.java:62)
+	at org.gradle.launcher.daemon.server.exec.BuildCommandOnly.execute(BuildCommandOnly.java:36)
+	at org.gradle.launcher.daemon.server.api.DaemonCommandExecution.proceed(DaemonCommandExecution.java:120)
+	at org.gradle.launcher.daemon.server.exec.EstablishBuildEnvironment.doBuild(EstablishBuildEnvironment.java:82)
+	at org.gradle.launcher.daemon.server.exec.BuildCommandOnly.execute(BuildCommandOnly.java:36)
+	at org.gradle.launcher.daemon.server.api.DaemonCommandExecution.proceed(DaemonCommandExecution.java:120)
+	at org.gradle.launcher.daemon.server.exec.StartBuildOrRespondWithBusy$1.run(StartBuildOrRespondWithBusy.java:50)
+	at org.gradle.launcher.daemon.server.DaemonStateCoordinator$1.run(DaemonStateCoordinator.java:297)
+	at org.gradle.internal.concurrent.ExecutorPolicy$CatchAndRecordFailures.onExecute(ExecutorPolicy.java:63)
+	at org.gradle.internal.concurrent.ManagedExecutorImpl$1.run(ManagedExecutorImpl.java:46)
+	at org.gradle.internal.concurrent.ThreadFactoryImpl$ManagedThreadRunnable.run(ThreadFactoryImpl.java:55)
+
+2018-03-05 00:36:25,899 [ thread 19]   WARN - ect.sync.idea.ProjectSetUpTask - Failed to find Build Tools revision 26.0.2
+
+Consult IDE log for more details (Help | Show Log) 
+2018-03-05 00:36:25,931 [ thread 19]   INFO - e.project.sync.GradleSyncState - Gradle sync failed: Failed to find Build Tools revision 26.0.2
+
+Consult IDE log for more details (Help | Show Log) (31s 52ms) 
+2018-03-05 00:36:26,197 [ thread 19]   WARN - roid.tools.ndk.GradleWorkspace - NDK support for project 'Test' is disabled because the project doesn't contain any valid native configurations. 
+2018-03-05 00:36:27,651 [ thread 19]   INFO -       #com.jetbrains.cidr.lang - Clearing symbols finished in 0 s. 
+2018-03-05 00:36:27,713 [ thread 19]   INFO -       #com.jetbrains.cidr.lang - Loading symbols finished in 0 s. 
+2018-03-05 00:36:27,713 [ thread 19]   INFO -       #com.jetbrains.cidr.lang - Building symbols finished in 0 s. 
+2018-03-05 00:36:27,729 [ thread 19]   INFO -       #com.jetbrains.cidr.lang - Saving symbols finished in 0 s. 
+2018-03-05 00:43:27,195 [ thread 62]   INFO - s.RepoProgressIndicatorAdapter - Parsing C:\Users\User1\AppData\Local\Android\Sdk\build-tools\27.0.3\package.xml 
+2018-03-05 00:43:27,257 [ thread 62]   INFO - s.RepoProgressIndicatorAdapter - Parsing C:\Users\User1\AppData\Local\Android\Sdk\emulator\package.xml 
+2018-03-05 00:43:27,288 [ thread 62]   INFO - s.RepoProgressIndicatorAdapter - Parsing C:\Users\User1\AppData\Local\Android\Sdk\extras\android\m2repository\package.xml 
+2018-03-05 00:43:27,320 [ thread 62]   INFO - s.RepoProgressIndicatorAdapter - Parsing C:\Users\User1\AppData\Local\Android\Sdk\extras\google\m2repository\package.xml 
+2018-03-05 00:43:27,335 [ thread 62]   INFO - s.RepoProgressIndicatorAdapter - Parsing C:\Users\User1\AppData\Local\Android\Sdk\extras\intel\Hardware_Accelerated_Execution_Manager\package.xml 
+2018-03-05 00:43:27,382 [ thread 62]   INFO - s.RepoProgressIndicatorAdapter - Parsing C:\Users\User1\AppData\Local\Android\Sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\package.xml 
+2018-03-05 00:43:27,413 [ thread 62]   INFO - s.RepoProgressIndicatorAdapter - Parsing C:\Users\User1\AppData\Local\Android\Sdk\extras\m2repository\com\android\support\constraint\constraint-layout\1.0.2\package.xml 
+2018-03-05 00:43:27,429 [ thread 62]   INFO - s.RepoProgressIndicatorAdapter - Parsing C:\Users\User1\AppData\Local\Android\Sdk\patcher\v4\package.xml 
+2018-03-05 00:43:27,460 [ thread 62]   INFO - s.RepoProgressIndicatorAdapter - Parsing C:\Users\User1\AppData\Local\Android\Sdk\platform-tools\package.xml 
+2018-03-05 00:43:27,523 [ thread 62]   INFO - s.RepoProgressIndicatorAdapter - Parsing C:\Users\User1\AppData\Local\Android\Sdk\platforms\android-26\package.xml 
+2018-03-05 00:43:27,570 [ thread 62]   INFO - s.RepoProgressIndicatorAdapter - Parsing C:\Users\User1\AppData\Local\Android\Sdk\platforms\android-27\package.xml 
+2018-03-05 00:43:27,601 [ thread 62]   INFO - s.RepoProgressIndicatorAdapter - Parsing C:\Users\User1\AppData\Local\Android\Sdk\sources\android-27\package.xml 
+2018-03-05 00:43:27,616 [ thread 62]   INFO - s.RepoProgressIndicatorAdapter - Parsing C:\Users\User1\AppData\Local\Android\Sdk\tools\package.xml 
+2018-03-05 00:43:27,715 [ thread 62]   INFO - s.RepoProgressIndicatorAdapter - Downloading file:/C:/Program%20Files/Android/Android%20Studio/plugins/sdk-updates/offline-repo/offline-repo.xml 
+2018-03-05 00:43:27,768 [ thread 62]   INFO - s.RepoProgressIndicatorAdapter - Downloading https://dl.google.com/android/repository/sys-img/android/sys-img2-1.xml 
+2018-03-05 00:43:28,410 [ thread 62]   INFO - s.RepoProgressIndicatorAdapter - Downloading https://dl.google.com/android/repository/sys-img/android-wear/sys-img2-1.xml 
+2018-03-05 00:43:28,692 [ thread 62]   INFO - s.RepoProgressIndicatorAdapter - Downloading https://dl.google.com/android/repository/sys-img/android-wear-cn/sys-img2-1.xml 
+2018-03-05 00:43:28,929 [ thread 62]   INFO - s.RepoProgressIndicatorAdapter - Downloading https://dl.google.com/android/repository/sys-img/android-tv/sys-img2-1.xml 
+2018-03-05 00:43:29,211 [ thread 62]   INFO - s.RepoProgressIndicatorAdapter - Downloading https://dl.google.com/android/repository/sys-img/google_apis/sys-img2-1.xml 
+2018-03-05 00:43:29,513 [ thread 62]   INFO - s.RepoProgressIndicatorAdapter - Downloading https://dl.google.com/android/repository/sys-img/google_apis_playstore/sys-img2-1.xml 
+2018-03-05 00:43:29,779 [ thread 62]   INFO - s.RepoProgressIndicatorAdapter - Downloading https://dl.google.com/android/repository/addon2-1.xml 
+2018-03-05 00:43:30,186 [ thread 62]   INFO - s.RepoProgressIndicatorAdapter - Downloading https://dl.google.com/android/repository/glass/addon2-1.xml 
+2018-03-05 00:43:30,655 [ thread 62]   INFO - s.RepoProgressIndicatorAdapter - Downloading https://dl.google.com/android/repository/extras/intel/addon2-1.xml 
+2018-03-05 00:43:30,905 [ thread 62]   INFO - s.RepoProgressIndicatorAdapter - Downloading https://dl.google.com/android/repository/repository2-1.xml 
+2018-03-05 00:43:31,374 [se-915-b01]   INFO - ectedPackagesStep$CustomLogger - To install: 
+2018-03-05 00:43:31,374 [se-915-b01]   INFO - ectedPackagesStep$CustomLogger - - Android SDK Build-Tools 26.0.2 (build-tools;26.0.2) 
+2018-03-05 00:43:31,374 [se-915-b01]   INFO - ectedPackagesStep$CustomLogger -  
+2018-03-05 00:43:31,389 [ thread 63]   INFO - ectedPackagesStep$CustomLogger - Preparing "Install Android SDK Build-Tools 26.0.2 (revision: 26.0.2)". 
+2018-03-05 00:43:31,608 [ thread 63]   INFO - ectedPackagesStep$CustomLogger - Downloading https://dl.google.com/android/repository/build-tools_r26.0.2-windows.zip 
+2018-03-05 00:44:00,480 [ thread 63]   INFO - ectedPackagesStep$CustomLogger - "Install Android SDK Build-Tools 26.0.2 (revision: 26.0.2)" ready. 
+2018-03-05 00:44:00,543 [ thread 63]   INFO - ectedPackagesStep$CustomLogger - Installing Android SDK Build-Tools 26.0.2 in C:\Users\User1\AppData\Local\Android\Sdk\build-tools\26.0.2 
+2018-03-05 00:44:00,605 [ thread 63]   INFO - ectedPackagesStep$CustomLogger - "Install Android SDK Build-Tools 26.0.2 (revision: 26.0.2)" complete. 
+2018-03-05 00:44:00,668 [ thread 63]   INFO - ectedPackagesStep$CustomLogger - "Install Android SDK Build-Tools 26.0.2 (revision: 26.0.2)" finished. 
+2018-03-05 00:44:03,817 [se-915-b01]   INFO - e.project.sync.GradleSyncState - Started sync with Gradle for project 'Test'. 
+2018-03-05 00:44:03,864 [ thread 64]   INFO - s.plugins.gradle.GradleManager - Instructing gradle to use java from C:/Program Files/Android/Android Studio/jre 
+2018-03-05 00:44:03,879 [ thread 64]   INFO - s.plugins.gradle.GradleManager - Instructing gradle to use java from C:/Program Files/Android/Android Studio/jre 
+2018-03-05 00:44:04,208 [ thread 64]   INFO - oject.common.GradleInitScripts - init script file sync.local.repo contents "allprojects {\n  buildscript {\n    repositories {\n      maven { url 'C:\\\\Program Files\\\\Android\\\\Android Studio\\\\gradle\\\\m2repository'}\n    }\n  }\n  repositories {\n      maven { url 'C:\\\\Program Files\\\\Android\\\\Android Studio\\\\gradle\\\\m2repository'}\n  }\n}\n" 
+2018-03-05 00:44:04,223 [ thread 64]   INFO - xecution.GradleExecutionHelper - Passing command-line args to Gradle Tooling API: -Didea.version=3.0 -Djava.awt.headless=true -Pandroid.injected.build.model.only=true -Pandroid.injected.build.model.only.advanced=true -Pandroid.injected.invoked.from.ide=true -Pandroid.injected.build.model.only.versioned=3 -Pandroid.injected.studio.version=3.0.1.0 --init-script C:\Users\User1\AppData\Local\Temp\sync.local.repo2.gradle --init-script C:\Users\User1\AppData\Local\Temp\ijinit.gradle 
+2018-03-05 00:46:08,211 [ thread 64]   INFO - e.project.sync.GradleSyncState - Started setup of project 'Test'. 
+2018-03-05 00:46:14,253 [se-915-b01]   INFO - ule.android.SdkModuleSetupStep - Set Android SDK 'Android API 26 Platform' (C:\Users\User1\AppData\Local\Android\Sdk) to module 'app' 
+2018-03-05 00:46:18,724 [se-915-b01]   INFO - pl.ProjectRootManagerComponent - project roots have changed 
+2018-03-05 00:46:18,820 [ thread 62]   INFO - etup.post.PluginVersionUpgrade - Gradle model version: 3.0.1, recommended version for IDE: 3.0.1 
+2018-03-05 00:46:18,989 [ thread 62]   INFO - ild.invoker.GradleBuildInvoker - About to execute Gradle tasks: [:app:generateDebugSources, :app:generateDebugAndroidTestSources, :app:mockableAndroidJar] 
+2018-03-05 00:46:19,502 [ thread 63]   INFO - .diagnostic.PerformanceWatcher - Pushing properties took 477ms; general responsiveness: ok; EDT responsiveness: ok 
+2018-03-05 00:46:25,014 [ thread 62]   INFO - e.project.sync.GradleSyncState - Gradle sync finished in 2m 21s 196ms 
+2018-03-05 00:46:25,206 [ thread 71]   INFO - s.plugins.gradle.GradleManager - Instructing gradle to use java from C:/Program Files/Android/Android Studio/jre 
+2018-03-05 00:46:26,637 [ thread 71]   INFO - oject.common.GradleInitScripts - init script file sync.local.repo contents "allprojects {\n  buildscript {\n    repositories {\n      maven { url 'C:\\\\Program Files\\\\Android\\\\Android Studio\\\\gradle\\\\m2repository'}\n    }\n  }\n  repositories {\n      maven { url 'C:\\\\Program Files\\\\Android\\\\Android Studio\\\\gradle\\\\m2repository'}\n  }\n}\n" 
+2018-03-05 00:46:26,652 [ thread 71]   INFO - ild.invoker.GradleBuildInvoker - Build command line options: [--configure-on-demand, -Pandroid.injected.invoked.from.ide=true, -Pandroid.injected.generateSourcesOnly=true, --init-script, C:\Users\User1\AppData\Local\Temp\sync.local.repo501.gradle] 
+2018-03-05 00:46:26,683 [ thread 71]   INFO - xecution.GradleExecutionHelper - Passing command-line args to Gradle Tooling API: --configure-on-demand -Pandroid.injected.invoked.from.ide=true -Pandroid.injected.generateSourcesOnly=true --init-script C:\Users\User1\AppData\Local\Temp\sync.local.repo501.gradle 
+2018-03-05 00:47:20,277 [ thread 63]   INFO - .diagnostic.PerformanceWatcher - Indexable file iteration took 60768ms; general responsiveness: 3/58 sluggish, 9/58 very slow; EDT responsiveness: 0/51 sluggish, 6/51 very slow 
+2018-03-05 00:47:20,324 [ thread 63]   INFO - indexing.UnindexedFilesUpdater - Unindexed files update started: 20363 files to update 
+2018-03-05 00:48:14,101 [se-915-b01]   INFO - ild.invoker.GradleBuildInvoker - Gradle build finished in 1m 48s 278ms 
+2018-03-05 00:48:14,574 [se-915-b01]   INFO - pl.ProjectRootManagerComponent - project roots have changed 
+2018-03-05 00:48:15,020 [ thread 63]   INFO - indexing.UnindexedFilesUpdater - Unindexed files update canceled 
+2018-03-05 00:48:15,182 [ thread 63]   INFO -       #com.jetbrains.cidr.lang - Clearing symbols finished in 0 s. 
+2018-03-05 00:48:15,328 [ thread 63]   INFO -       #com.jetbrains.cidr.lang - Loading symbols finished in 0 s. 
+2018-03-05 00:48:15,338 [ thread 63]   INFO -       #com.jetbrains.cidr.lang - Building symbols finished in 0 s. 
+2018-03-05 00:48:15,410 [ thread 63]   INFO -       #com.jetbrains.cidr.lang - Saving symbols finished in 0 s. 
+2018-03-05 00:48:15,482 [ thread 63]   INFO - .diagnostic.PerformanceWatcher - Pushing properties took 50ms; general responsiveness: ok; EDT responsiveness: ok 
+2018-03-05 00:48:16,177 [cessToken]]   INFO - pl.ProjectRootManagerComponent - project roots have changed 
+2018-03-05 00:48:16,178 [ thread 63]   INFO - indexing.UnindexedFilesUpdater - Unindexed files update canceled 
+2018-03-05 00:48:17,892 [ thread 63]   INFO - .diagnostic.PerformanceWatcher - Pushing properties took 30ms; general responsiveness: ok; EDT responsiveness: ok 
+2018-03-05 00:48:20,196 [ thread 63]   INFO - .diagnostic.PerformanceWatcher - Indexable file iteration took 2303ms; general responsiveness: ok; EDT responsiveness: ok 
+2018-03-05 00:48:20,243 [ thread 63]   INFO - indexing.UnindexedFilesUpdater - Unindexed files update started: 19554 files to update 
+2018-03-05 00:49:27,000 [se-915-b01]   INFO - stubs.SerializationManagerImpl - START StubSerializationManager SHUTDOWN 
+2018-03-05 00:49:27,000 [se-915-b01]   INFO - stubs.SerializationManagerImpl - END StubSerializationManager SHUTDOWN 
+2018-03-05 00:49:27,015 [se-915-b01]   INFO - org.jetbrains.io.BuiltInServer - web server stopped 
+2018-03-05 00:49:27,095 [se-915-b01]   INFO - Types.impl.FileTypeManagerImpl - FileTypeManager: 52 auto-detected files
+Elapsed time on auto-detect: 8594 ms 
+2018-03-05 00:49:27,170 [fier64.exe]   INFO - pl.local.NativeFileWatcherImpl - Watcher terminated with exit code 0 
+2018-03-05 00:49:30,215 [ thread 63]   INFO - indexing.UnindexedFilesUpdater - Unindexed files update canceled 
+2018-03-05 00:49:30,434 [se-915-b01]   INFO - il.indexing.FileBasedIndexImpl - START INDEX SHUTDOWN 
+2018-03-05 00:49:33,067 [se-915-b01]   INFO - il.indexing.FileBasedIndexImpl - END INDEX SHUTDOWN 
+2018-03-05 00:49:33,076 [se-915-b01]   INFO - newvfs.persistent.PersistentFS - VFS dispose started 
+2018-03-05 00:49:33,219 [se-915-b01]   INFO - newvfs.persistent.PersistentFS - VFS dispose completed 
+2018-03-05 00:49:33,235 [ - logging]   INFO -        #com.intellij.idea.Main - ------------------------------------------------------ IDE SHUTDOWN ------------------------------------------------------ 
+2018-03-05 00:49:33,250 [wn tracker]   INFO - org.jetbrains.io.BuiltInServer - web server stopped 

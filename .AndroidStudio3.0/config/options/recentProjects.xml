@@ -1,0 +1,31 @@
+<application>
+  <component name="RecentProjectsManager">
+    <option name="recentPaths">
+      <list>
+        <option value="C:\Users\User1\AndroidStudioProjects\Test" />
+      </list>
+    </option>
+    <option name="openPaths">
+      <list>
+        <option value="C:\Users\User1\AndroidStudioProjects\Test" />
+      </list>
+    </option>
+    <option name="lastPath" value="C:\Users\User1\AndroidStudioProjects\Test" />
+    <option name="additionalInfo">
+      <map>
+        <entry key="C:\Users\User1\AndroidStudioProjects\Test">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="AI-171.4443003" />
+              <option name="productionCode" value="AI" />
+              <option name="binFolder" value="C:\Program Files\Android\Android Studio\bin" />
+              <option name="projectOpenTimestamp" value="1520231455410" />
+              <option name="buildTimestamp" value="1510251661654" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="lastProjectLocation" value="$USER_HOME$/AndroidStudioProjects" />
+  </component>
+</application>

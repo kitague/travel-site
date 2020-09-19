@@ -1,0 +1,17 @@
+00:00:05.753095 VirtualBox GUI VM Selector Window 6.1.2 r135662 win.amd64 (Jan 15 2020 14:07:18) release log
+00:00:05.753104 Log opened 2020-04-29T20:50:59.346725800Z
+00:00:05.753107 Build Type: release
+00:00:05.753115 OS Product: Windows 10
+00:00:05.753120 OS Release: 10.0.18362
+00:00:05.753133 OS Service Pack: 
+00:00:05.843213 DMI Product Name: Latitude E6420
+00:00:05.863785 DMI Product Version: 01
+00:00:05.863865 Firmware type: BIOS
+00:00:05.863902 Host RAM: 8073MB (7.8GB) total, 4134MB (4.0GB) available
+00:00:05.863917 Executable: C:\Program Files\Oracle\VirtualBox\VirtualBox.exe
+00:00:05.863920 Process ID: 15236
+00:00:05.863922 Package type: WINDOWS_64BITS_GENERIC
+00:00:05.864634 Qt version: 5.6.2
+00:00:06.007779 GUI: UIMediumEnumerator: Medium-enumeration started...
+00:00:11.073480 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:00:11.379563 refreshCertificates/#3: Found 1/104 SSL certs we/you trust (previously 1/104).
